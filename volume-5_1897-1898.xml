@@ -16,8 +16,14 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
         </fileDesc>
     </teiHeader>
     <text>
-        <body> PAGE 134 (next page is duplicate 134) Nov. 19. 1997. It is now 6 days since we sailed
-            from New York at 10 A.M. on Nov. 13 on the Kaiser Wilhelm II. Montgomery Beal, Mrs.
+        <body> 
+        
+        <pb n="134"/> 
+        
+        <div xml:id="EBA18971119" type="Entry"> 
+        <p><title>Nov. 19. 1997.</title></p> 
+        <p>It is now 6 days since we sailed 
+        	from New York at 10 A.M. on Nov. 13 on the Kaiser Wilhelm II. Montgomery Beal, Mrs.
             Davis’s nephew with us. We have had a pleasant passage though very little sun - pleasant
             passengers too, many friends and acquaintances. Mrs. Julie Ward Howe, with her daughter
             Mrs. John Elliot, and her husband. Mrs. Norman, with her daughter Mable, and son

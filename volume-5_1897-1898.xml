@@ -28,10 +28,10 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <persName ref="Elliot_Mrs_John">Mrs. John Elliot</persName>, and her husband. <persName ref="Norman_Mrs">Mrs. Norman</persName> 
             with her daughter <persName ref="Norman_Mable">Mable</persName>, and son <persName ref="Norman_Reginald">Reginald</persName> 
             from Newport. <persName ref="Freufanellé-Cibo_Countess">Countess Freufanellé-Cibo</persName> of Foligno - introduced to us by 
-            <persName ref="Cortazzo_Madame">Madame Cortazzo</persName>. <persName ref="Wilson_Mrs">Mrs. Wilson</persName>of Gibraltar, 
-            who crossed with us last year - a bride then, with her husband, <persName ref="Wilson_Captain_Stewart">Capt. Stewart Wilson</persName> 
+            <persName ref="Cortazzo_Madame">Madame Cortazzo</persName>. <persName ref="Wilson_Mrs">Mrs. Wilson</persName>of 
+            <placeName ref="Gibraltar">Gibraltar</placeName>, who crossed with us last year - a bride then, with her husband, <persName ref="Wilson_Capt_Stewart">Capt. Stewart Wilson</persName> 
             of the Royal Engineers - and <persName ref="Shaw Oliver_Mrs_Robert">Mrs. Robert Shaw Oliver</persName> with her 3 girls from Albany, going 
-            out to Florence for the winter. So that it was likea reception all the way over. Every afternoon they all came to tea with me in the saloon
+            out to Florence for the winter. So that it was like a reception all the way over. Every afternoon they all came to tea with me in the saloon
             - and every evening <persName ref="Ward Howe_Mrs_Julia">Mrs. Julia Ward Howe</persName> played whist with 
             <persName ref="Andrews_Emma">me</persName> and <persName ref="Davis_Theodore">Theodore</persName> 
             and <persName ref="Whitehead_Mr">Mr.Whitehead</persName>, who with <persName ref="Whitehead_Mrs">Mrs. W.</persName> 
@@ -39,23 +39,32 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             </persName ref="Anderson_ Hendrick">Hendrick Anderson</persName> the young sculptor, going back to Rome, who has been with us so 
             much this summer. Today we passed the <geogName ref="Azores_Islands">Azores</geogName> - not keeping to the south as we did 
             last year, when we passed the large and important island of <geogName ref="São_Miguel_Island_Azores">San Miguel</geogName>. 
-            Today we passed in between <geogName ref="Faial_Island_Azores">Fayal</geogName> and <country ref="Portugal_Azores">San Jose</country> - then 
+            Today we passed in between <geogName ref="Faial_Island_Azores">Fayal</geogName> and <country ref="Spain">San Jose</country> - then 
             past <geogName ref="São_Jorge_Island_Azores">St. George</geogName>, and along the beautiful island of 
             <geogName ref="Tanicera_Island_Azores">Tanicera</geogName>, <geogName ref="São_Miguel_Island_Azores">San Miguel</geogName> 
             being just visible away to the south and east. We have very comfortable rooms and the ship is clean and comfortable - though she
             rolls even in these smooth seas. She has the nickname of Rolling Billy.</p>
             </div>
             
+            <pb n="135"/>
             
-            PAGE 135 Monday. Nov. 22. Arrived at 9:30 this morning - bright but with heavy
-            squalls of wind. Capt. Wilson came out to meet his wife - and the sea was so rough, she
-            went off in the tug with all the others. I did not go, as past experience at Gibraltar
-            in the rain, warned me not to venture. So the Countess and I wandered about and talked
-            and grew weary enough before the others came back late for lunch. Naples. Nov. 25.
-            Arrived at 7 A.M. the Mediterranean proving as quiet as the Atlantic. Came to the Grand
-            Hotel, where we found Lizzie, Nettie and Mary waiting for us. After a comfortable
-            breakfast before the fire in our pleasant sitting room overlooking the bay and Vesuvius,
-            we sat about and talked and pleasantly idled away the hours, rejoicing to be on land
+            <div xml:id="EBA18971122" type="Entry">
+            <p><title>Nov. 19. 1897</title></p>
+            <p> Arrived at 9:30 this morning - bright but with heavy
+            squalls of wind. <persName ref="Wilson_Capt_Stewart">Capt. Wilson</persName> came out to meet his <persName ref="Wilson_Mrs">wife</persName>
+            - and the sea was so rough, she went off in the tug with all the others. I did not go, as past experience at 
+            <placeName ref="Gibraltar">Gibraltar</placeName> in the rain, warned me not to venture. 
+            So the <persName ref="Freufanellé-Cibo_Countess">Countess</persName> and I wandered about and talked
+            and grew weary enough before the others came back late for lunch. </p>
+            </div>
+            
+            <div xml:id="EBA18971125" type="Entry">
+            <p><title>Naples. Nov. 25.</title></p>
+            <p> Naples. Nov. 25.
+            Arrived at 7 A.M. the <geogName ref="Mediterranean_Sea">Mediterranean</geogName> proving as quiet as the Atlantic. Came to the Grand
+            Hotel, where we found <persName ref="Oliver_Elizabeth">Lizzie</persName>, <persName ref="Oliver_Annette">Nettie</persName> 
+            and <persName ref="Oliver_Mary">Mary</persName> waiting for us. After a comfortable breakfast before the fire in our pleasant 
+            sitting room overlooking the bay and <geogName ref="Mount_Vesuvius"><Vesuvius, we sat about and talked and pleasantly idled away the hours, rejoicing to be on land
             once more. Vesuvius, after his late activity, is again quiet. The Countess came to lunch
             with us, and the Olivers. Then we all said goodbye, and they went off to Florence. Dec.
             1. Wednesday. Our days in Naples have been rather dull. Weather bad. Lizzie with a bad

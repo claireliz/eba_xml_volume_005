@@ -21,28 +21,33 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
         <pb n="134"/> 
         
         <div xml:id="EBA18971119" type="Entry"> 
-        <p><title>Nov. 19. 1997.</title></p> 
-        <p>It is now 6 days since we sailed from New York at 10 A.M. on Nov. 13 on the Kaiser Wilhelm II. Montgomery Beal, Mrs.
-            Davis’s nephew with us. We have had a pleasant passage though very little sun - pleasant
-            passengers too, many friends and acquaintances. Mrs. Julie Ward Howe, with her daughter
-            Mrs. John Elliot, and her husband. Mrs. Norman, with her daughter Mable, and son
-            Reginald from Newport. Countess Freufanellé-Cibo of Foligno - introduced to us by Madame
-            Cortazzo. Mrs. Wilson of Gibraltar, who crossed with us last year - a bride then, with
-            her husband, Capt. Stewart Wilson of the Royal Engineers - and Mrs. Robert Shaw Oliver
-            with her 3 girls from Albany, going out to Florence for the winter. So that it was like
-            a reception all the way over. Every afternoon they all came to tea with me in the saloon
-            - and every evening Mrs. Julia Ward Howe played whist with me and Theodore and Mr.
-            Whitehead, who with Mrs. W. is also on board, and a very good game the delightful old
-            lady played. We have with us also, Hendrick Anderson, the young sculptor, going back to
-            Rome, who has been with us so much this summer. Today we passed the Azores - not keeping
-            to the south as we did last year, when we passed the large and important island of San
-            Miguel. Today we passed in between Fayal and San Jose - then past St. George, and along
-            the beautiful island of Tanicera, San Miguel being just visible away to the south and
-            east. We have very comfortable rooms and the ship is clean and comfortable - though she
-            rolls even in these smooth seas. She has the nickname of Rolling Billy. PAGE 134
-            (duplicate of the above page) Nov. 19. 1997. It is now 6 days since we sailed from New
-            York at 10 A.M. on Nov. 13 on the Kaiser Wilhelm II. …...................... duplicate
-            page 134 PAGE 135 Monday. Nov. 22. Arrived at 9:30 this morning - bright but with heavy
+        <p><title>Nov. 19. 1897.</title></p> 
+        <p>It is now 6 days since we sailed from New York at 10 A.M. on Nov. 13 on the Kaiser Wilhelm II. <persName ref="Beal_Montgomery">
+        Montgomery Beal</persName>, Mrs. Davis’s nephew with us. We have had a pleasant passage though very little sun - pleasant
+            passengers too, many friends and acquaintances. <persName ref="Ward Howe_Mrs_Julia">Mrs. Julie Ward Howe</persName>, with her daughter
+            <persName ref="Elliot_Mrs_John">Mrs. John Elliot</persName>, and her husband. <persName ref="Norman_Mrs">Mrs. Norman</persName> 
+            with her daughter <persName ref="Norman_Mable">Mable</persName>, and son <persName ref="Norman_Reginald">Reginald</persName> 
+            from Newport. <persName ref="Freufanellé-Cibo_Countess">Countess Freufanellé-Cibo</persName> of Foligno - introduced to us by 
+            <persName ref="Cortazzo_Madame">Madame Cortazzo</persName>. <persName ref="Wilson_Mrs">Mrs. Wilson</persName>of Gibraltar, 
+            who crossed with us last year - a bride then, with her husband, <persName ref="Wilson_Captain_Stewart">Capt. Stewart Wilson</persName> 
+            of the Royal Engineers - and <persName ref="Shaw Oliver_Mrs_Robert">Mrs. Robert Shaw Oliver</persName> with her 3 girls from Albany, going 
+            out to Florence for the winter. So that it was likea reception all the way over. Every afternoon they all came to tea with me in the saloon
+            - and every evening <persName ref="Ward Howe_Mrs_Julia">Mrs. Julia Ward Howe</persName> played whist with 
+            <persName ref="Andrews_Emma">me</persName> and <persName ref="Davis_Theodore">Theodore</persName> 
+            and <persName ref="Whitehead_Mr">Mr.Whitehead</persName>, who with <persName ref="Whitehead_Mrs">Mrs. W.</persName> 
+            is also on board, and a very good game the delightful old lady played. We have with us also, 
+            </persName ref="Anderson_ Hendrick">Hendrick Anderson</persName> the young sculptor, going back to Rome, who has been with us so 
+            much this summer. Today we passed the <geogName ref="Azores_Islands">Azores</geogName> - not keeping to the south as we did 
+            last year, when we passed the large and important island of <geogName ref="São_Miguel_Island_Azores">San Miguel</geogName>. 
+            Today we passed in between <geogName ref="Faial_Island_Azores">Fayal</geogName> and <country ref="Portugal_Azores">San Jose</country> - then 
+            past <geogName ref="São_Jorge_Island_Azores">St. George</geogName>, and along the beautiful island of 
+            <geogName ref="Tanicera_Island_Azores">Tanicera</geogName>, <geogName ref="São_Miguel_Island_Azores">San Miguel</geogName> 
+            being just visible away to the south and east. We have very comfortable rooms and the ship is clean and comfortable - though she
+            rolls even in these smooth seas. She has the nickname of Rolling Billy.</p>
+            </div>
+            
+            
+            PAGE 135 Monday. Nov. 22. Arrived at 9:30 this morning - bright but with heavy
             squalls of wind. Capt. Wilson came out to meet his wife - and the sea was so rough, she
             went off in the tug with all the others. I did not go, as past experience at Gibraltar
             in the rain, warned me not to venture. So the Countess and I wandered about and talked

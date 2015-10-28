@@ -23,7 +23,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
         <div xml:id="EBA18971119" type="Entry"> 
         <p><title>Nov. 19. 1897.</title></p> 
         <p>It is now 6 days since we sailed from New York at 10 A.M. on Nov. 13 on the Kaiser Wilhelm II. <persName ref="Beal_Montgomery">
-        Montgomery Beal</persName>, Mrs. Davis’s nephew with us. We have had a pleasant passage though very little sun - pleasant
+       		 Montgomery Beal</persName>, Mrs. Davis’s nephew with us. We have had a pleasant passage though very little sun - pleasant
             passengers too, many friends and acquaintances. <persName ref="Ward Howe_Mrs_Julia">Mrs. Julie Ward Howe</persName>, with her daughter
             <persName ref="Elliot_Mrs_John">Mrs. John Elliot</persName>, and her husband. <persName ref="Norman_Mrs">Mrs. Norman</persName> 
             with her daughter <persName ref="Norman_Mable">Mable</persName>, and son <persName ref="Norman_Reginald">Reginald</persName> 
@@ -50,7 +50,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             
             <div xml:id="EBA18971122" type="Entry">
             <p><title>Nov. 19. 1897</title></p>
-            <p> Arrived at 9:30 this morning - bright but with heavy
+            <p>Arrived at 9:30 this morning - bright but with heavy
             squalls of wind. <persName ref="Wilson_Capt_Stewart">Capt. Wilson</persName> came out to meet his <persName ref="Wilson_Mrs">wife</persName>
             - and the sea was so rough, she went off in the tug with all the others. I did not go, as past experience at 
             <placeName ref="Gibraltar">Gibraltar</placeName> in the rain, warned me not to venture. 
@@ -60,58 +60,105 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             
             <div xml:id="EBA18971125" type="Entry">
             <p><title>Naples. Nov. 25.</title></p>
-            <p> Naples. Nov. 25.
-            Arrived at 7 A.M. the <geogName ref="Mediterranean_Sea">Mediterranean</geogName> proving as quiet as the Atlantic. Came to the Grand
-            Hotel, where we found <persName ref="Oliver_Elizabeth">Lizzie</persName>, <persName ref="Oliver_Annette">Nettie</persName> 
+            <p>Arrived at 7 A.M. the <geogName ref="Mediterranean_Sea">Mediterranean</geogName> proving as quiet as the Atlantic. Came to the Grand
+            Hotel, where we found <persName ref="Oliver_Lizzie">Lizzie</persName>, <persName ref="Oliver_Nettie">Nettie</persName> 
             and <persName ref="Oliver_Mary">Mary</persName> waiting for us. After a comfortable breakfast before the fire in our pleasant 
-            sitting room overlooking the bay and <geogName ref="Mount_Vesuvius"><Vesuvius, we sat about and talked and pleasantly idled away the hours, rejoicing to be on land
-            once more. Vesuvius, after his late activity, is again quiet. The Countess came to lunch
-            with us, and the Olivers. Then we all said goodbye, and they went off to Florence. Dec.
-            1. Wednesday. Our days in Naples have been rather dull. Weather bad. Lizzie with a bad
-            cold - Mary really ill with one - and Nettie just recovering from a severe attack of
-            influenza. Anderson went up to Rome 2 days ago. We enjoyed going to the sculpture
-            gallery of the museum with him. Lizzie and Mary took last nights train to Florence. Mrs.
-            Taylor suddenly appeared this afternoon, having arrived from Genoa on the Königen PAGE
-            136 Luise - came to the boat about 5 - found her crowded - I was bored - comfortable
-            deck rooms - Mrs. Bend, Amy and Beatrice joined us last night. Thursday. Dec. 2d. Passed
-            Sicily this morning -Aetna covered with snow - cold wind blowing - sea calm as a river.
-            Saturday. Dec. 4. We will reach Port Said tonight. The Königen Luise has beautiful great
-            decks - but she is tremendously over crowded with passengers for Egypt. About 100 for
-            Port Said - we have decided some of us to go to Ismaelia - the Normans and Bends never
-            having seen the canal. Cairo - Shepheards Hotel. Tuesday - Dec. 7. We reached Port Said
-            Saturday at midnight - the usual fracas and disagreeable features of coaling all night.
+            sitting room overlooking the bay and <geogName ref="Mount_Vesuvius">Vesuvius</geogName>, we sat about and talked and 
+            pleasantly idled away the hours, rejoicing to be on land
+            once more. <geogName ref="Vesuvius">Vesuvias</geogName>, after his late activity, is again quiet. 
+            <persName ref="Freufanellé-Cibo_Countess">The Countess</persName> came to lunch with us, and the 
+            <unclear><persName ref="Oliver_Lizzie"><persName ref="Oliver_Mary"><persName ref="Oliver_Nettie">Olivers</persName></persName></persName>
+            </unclear>. Then we all said goodbye, and <unclear>they</unclear> went off to Florence.</p> 
+            </div>
+            
+            <div xml:id="EBA18971201" type="Entry">
+            <p><title>Dec.1. Wednesday.></title></p>
+        	</p>Our days in <placeName ref="Naples_Italy">Naples</placeName> have been rather dull. Weather bad. 
+        	<persName ref="Oliver_Lizzie">Lizzie</persName> with a bad cold - <persName ref="Oliver_Mary">Mary</persName> 
+        	really ill with one - and <persName ref="Oliver_Nettie>Nettie</persName> just recovering from a severe attack of influenza. 
+        	<persName ref="Anderson_Hendrick">Anderson</persName> went up to Rome 2 days ago. We enjoyed going to the sculpture 
+        	gallery of the museum with him. <persName ref="Oliver_Lizzie">Lizzie</persName> and <persName ref="Oliver_Mary">Mary</persName> 
+        	took last nights train to <placeName ref="Florence_Italy">Florence</placeName>. <persName ref="Taylor_Mrs">Mrs. Taylor</persName> 
+        	suddenly appeared this afternoon, having arrived from <placeName ref="Genoa_Italy">Genoa</placeName> on the Königen.  
+        	
+        	<pb n="136"/>
+        	
+        	<persName ref="Luise">Luise</persName> - came to the boat about 5 - found her crowded - I was bored - comfortable
+            deck rooms - <persName ref="Bend_Mrs">Mrs. Bend</persName>, <unclear><persName ref="Amelie">Amy</persName></unclear> and 
+            <persName ref="Beatrice">Beatrice</persName> joined us last night.</p>
+            </div>
+            
+            <div xml:id="EBA18971202" type="Entry">
+            <p><title>Thursday. Dec. 2d.</title></p>
+            <p>Passed <placeName ref"Sicily_Italy">Sicily</placeName> this morning -<geogName ref="Mount_Etna">Aetna</geogName> 
+            covered with snow - cold wind blowing - sea calm as a river.</p>
+            </div>
+            
+            <div xml:id="EBA18971204" type="Entry">
+            <p><title>Saturday. Dec. 4.</title></p>
+            <p>We will reach <placeName ref="Port_Said_Egypt">Port Said</placeName> tonight. The Königen Luise has beautiful great
+            decks - but she is tremendously over crowded with passengers for <country ref="Egypt">Egypt</country>. About 100 for
+            <placeName ref="Port_Said_Egypt">Port Said</placeName> - we have decided some of us to go to 
+            <placeName ref="Ismaelia_Egypt">Ismaelia</placeName> - the <persName ref="Norman_Mr"><persName ref="Norman_Mrs">Normans</persName></persName> 
+            and </unclear><persName ref="Bend_Mrs">Bends</persName></unclear> never having seen <geogName ref="Sweet_Water_Canal">the canal</geogName>.
+            </p> 
+            </div>
+            
+            <div xml:id="EBA18971207" type="Entry">
+            <p><title>Cairo - Shepheards Hotel</title></p> 
+            <p>We reached <placeName ref="Port_Said_Egypt">Port Said</placeName> Saturday at midnight - 
+            the usual fracas and disagreeable features of coaling all night.
             Ports, doors, everything closed - noise etc. - to my thinking there is nothing gained by
-            going on to Ismailia - better solve the unpleasant problem by quitting the steamer at
-            any hour she arrives, and accepting anything that can be found at Port Said. As it was,
-            we slept little were very slow in getting through the canal next day, sticking several
-            times, and did not reach Ismailia until 7:30 - waited some time for the tender, and did
-            not land before 9:30 - a passable supper - and bed rooms - Nettie and PAGE 137 I in one
-            room - my bed so chill and damp, that I have suffered much from it - we reached Cairo at
-            6 P.M. and were soon installed in our old corner rooms to the north - feeling very much
-            at home. We drove down to the boat this morning - finding her almost in sailing
+            going on to <placeName ref="Ismailia_Egypt">Ismailia</placeName> - better solve the unpleasant 
+            problem by quitting the steamer at any hour she arrives, and accepting anything that can be found at 
+            <placeName ref="Port_Said_Egypt">Port Said</placeName>. As it was, we slept little were very slow in 
+            getting through <geogName ref="Sweet_Water_Canal">the canal</geogName> the next day, sticking several times, and did not 
+            reach <placeName ref="Ismailia_Egypt">Ismailia</placeName> until 7:30 - waited some time for the tender, and did not 
+            land before 9:30 - a passable supper - and bed rooms - <persName ref="Oliver_Nettie">Nettie</persName> and 
+            
+            <pb n="137"/>
+            
+            in one room - my bed so chill and damp, that I have suffered much from it - we reached 
+            <placeName ref="Cairo_Egypt">Cairo</placeName> at 6 P.M. and were soon installed in our old corner 
+            rooms to the north - feeling very much at home. We drove down to the boat this morning - finding her almost in sailing
             condition. There remain however, all the stores to be unpacked, and a thousand little
-            things to be arranged and settled. Sunday after Christmas. Dec. 26. Beduin. At last we
-            are settled in this our delightful little winter home - and it would be entirely perfect
-            had I only my dear Toby here! How glad I am to quit all that entourage at Shepheards, I
+            things to be arranged and settled.</p>
+            </div> 
+            
+            <div xml:id="EBA18971226" type="Entry">
+            <p><title>Sunday after Christmas. Dec. 26. Beduin.</title></p>
+            At last we are settled in this our delightful little winter home - and it would be entirely perfect
+            had I only my dear <unclear>Toby</unclear> here! How glad I am to quit all that entourage at Shepheards, I
             cannot even express to myself! I have had 10 days of real illness - several days in my
-            bed. In all my life I have never been so ill - the winter is a bad one in Egypt - cold -
-            high winds - and little sunshine. We kept a steady fire in our sitting room. Everyone
-            has a cold. Mrs. Bend and Mrs. Norman half the time in their beds. We found our faithful
-            Mohammed Salah waiting for us at the station when we arrived, and Abdul and Ibrahim. We
-            had our Xmas this morning, and gave the men all around, shawls and knives and cigarettes
-            - good woolen underclothes for Rais Fuli, Abdul, Mattar, and Ibrahim. Theodore had
-            bought for Rais Fuli in Paris last spring a first class field glass - and has his name
-            put in gilt letters on the case - and I had extra things for Abdul, Mattar and Ibrahim.
-            The men had - sheep - and I went into town this afternoon PAGE 138 to find all the shops
-            closed. Last evening being Christmas night, Mrs. Bend and the girls dined with us. The
-            first dinner of our new cook - and a very good dinner it was - quite admirable - they
-            were quite impressed. Monday, Dec. 27 Monty and I paid a hurried visit to Hatoun’s and
+            bed. In all my life I have never been so ill - the winter is a bad one in <country ref="Egypt">Egypt</country> 
+            - cold - high winds - and little sunshine. We kept a steady fire in our sitting room. Everyone
+            has a cold. <persName ref="Bend_Mrs.">Mrs. Bend</persName> and <persName ref="Norman_Mrs.">Mrs. Norman</persName> 
+            half the time in their beds. We found our faithful <persName ref="Salah_Mohammad">Mohammed Salah</persName> 
+            waiting for us at the station when we arrived, and <persName ref="Abdul">Abdul</persName> 
+            and <persName ref="Ibrahim">Ibrahim</persName>. We had our Xmas this morning, and gave the men all around, 
+            shawls and knives and cigarettes- good woolen underclothes for <persName ref="Fuli_Rais">Rais Fuli</persName>, 
+            <persName ref="Abdul">Abdul</persName>, <persName ref="Mattar">Mattar</persName>, and <persName ref="Ibrahim">Ibrahim</persName>. 
+            <persName ref="Davis_Theodore">Theodore</persName> had bought for <persName ref="Fuli_Rais">Rais Fuli</persName> in Paris 
+            last spring a first class field glass - and has his name put in gilt letters on the case - and I had extra things for 
+            <persName ref="Abdul">Abdul</persName>, <persName ref="Mattar">Mattar</persName> and <persName ref="Ibrahim">Ibrahim</persName>.
+            The men had - sheep - and I went into town this afternoon 
+            
+            <pb n="138"/>
+            
+            to find all the shops closed. Last evening being Christmas night, <persName ref="Bend_Mrs.">Mrs. Bend</persName> 
+            and <unclear>the girls</unclear> dined with us. The first dinner of our new cook - and a very good dinner it was 
+            - quite admirable - they were quite impressed.</p>
+            </div> 
+            
+            Monday, Dec. 27 Monty and I paid a hurried visit to Hatoun’s and
             Parvis’s shops this morning, and hurried back - we got off at 12:30 in a very good wind
             and reached Bedrashein in less than 3 hours - have dawdelled away much time in fear of
             our big sail, which proves too big. Theodore has decided to have it made smaller
             tomorrow, and to kill two birds with one stone by visiting Sakkarah, which we did not
             intend doing until we come down - as I am not now very fit. So Rais Fuli took the 6
-            o’clock train to Cairo to fetch the sail makers. Cold. Tuesday, Dec. 18. They all made
+            o’clock train to Cairo to fetch the sail makers. Cold. 
+            
+            Tuesday, Dec. 18. They all made
             an early start for Sakkarah this morning - even Jones and Amilie. I sent Amilie as she
             had never seen it. They all condoled with me on going off, because I was to be left all
             alone for the day. But after they got away, I smiled and began to enjoy myself! I mended
@@ -119,7 +166,9 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             consensed it - put in order the linen closet and my dress closet, re-arranged Abdul’s
             sideboard for him - the bookcase and all the small things - and after a delicious little
             lunch, with Abdul waiting upon me so quietly and faithfully, I took a book and stretch
-            myself upon the divan in the saloon - where I could neither read or sleep PAGE 139
+            myself upon the divan in the saloon - where I could neither read or sleep 
+            
+            PAGE 139
             because of enjoying the delicious quiet and repose. The first quiet day I have had for
             almost a year! I enjoyed the occasional bursts of sunshine through the window, across
             the mossy green carpet, and the big green chair, making a delicate harmony with the line
@@ -134,7 +183,9 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             now she is pronounced to be all right and is again in place on the boom. Every inch of
             the boat outside and in, was painted last summer, in admirable fashion, making a great
             improvement in the Beduin. I never saw more beautiful paint - the tints so perfect - and
-            the finish like porcelain. We seem now to be quite perfect. Wednesday - Dec. 29. The day
+            the finish like porcelain. We seem now to be quite perfect. 
+            
+            Wednesday - Dec. 29. The day
             began cold, with a south wind which changed to north about one o’clock - and we sailed
             away until 4 P.M. when it veered to west, and we tied up, after having made 8 miles -
             the sail proves quite perfect. PAGE 140 Dec. 30. Thursday. We made an early start this

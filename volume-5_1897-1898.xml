@@ -23,9 +23,11 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
         <div xml:id="EBA18971119" type="Entry"> 
         <p><title>Nov. 19. 1897.</title></p> 
         <p>It is now 6 days since we sailed from New York at 10 A.M. on Nov. 13 on the 
-        	<name type="boat" ref="#Kaiser Wilhelm II">Kaiser Wilhelm II</name>. <persName ref="#Beal_Montgomery"> Montgomery Beal</persName>, 
-        	<persName ref="#Davis_Annie">Mrs. Davis’s</persName> nephew with us. We have had a pleasant passage though very little sun - pleasant passengers too, many friends and acquaintances. <persName ref="#Ward Howe_Mrs_Julia">Mrs. Julie Ward Howe</persName>, with her daughter
-            <persName ref="#Elliot_Mrs_John">Mrs. John Elliot</persName>, and her husband. <persName ref="#Norman_Mrs">Mrs. Norman</persName> 
+        	<name type="boat" ref="#Kaiser Wilhelm II">Kaiser Wilhelm II</name>. 
+        	<persName ref="#Beal_Montgomery"> Montgomery Beal</persName>, <persName ref="#Davis_Annie">Mrs. Davis’s</persName> 
+        	nephew with us. We have had a pleasant passage though very little sun - pleasant passengers too, many friends and 
+        	acquaintances. <persName ref="#Ward Howe_Mrs_Julia">Mrs. Julie Ward Howe</persName>, with her daughter
+			<persName ref="#Elliot_Mrs_John">Mrs. John Elliot</persName>, and her husband. <persName ref="#Norman_Mrs">Mrs. Norman</persName> 
             with her daughter <persName ref="#Norman_Mable">Mable</persName>, and son <persName ref="#Norman_Reginald">Reginald</persName> 
             from Newport. <persName ref="#Freufanellé-Cibo_Countess">Countess Freufanellé-Cibo</persName> of Foligno - introduced to us by 
             <persName ref="#Cortazzo_Madame">Madame Cortazzo</persName>. <persName ref="#Wilson_Mrs">Mrs. Wilson</persName>of 
@@ -168,18 +170,19 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             almost a year! I enjoyed the occasional bursts of sunshine through the window, across
             the mossy green carpet, and the big green chair, making a delicate harmony with the line
             of young wheat growing on the bank - and the palms tossing their branches above. The
-            <name type="boat" ref="#Rameses">Rameses</name> came up from Cairo - on which are <persName ref="#Whitehead_Mr">Mr.</persName> 
-            and <persName ref="#Whitehead_Mrs">Mrs. Whitehead</persName> - and <persName ref="#Whitehead_Mr">Mr. W.</persName> 
-            came over to make me a little visit - reporting <persName ref="#Whitehead_Mrs">Mrs. W.</persName> 
-            afraid to venture out in the cold, and only 35 passengers. I asked him why he had not gone to see wonderful 
-            <placeName ref="#Sakkarah">Sakkarah</placeName>, and he said “he thought he would get enough of temples and pyramids 
-            before he got out of Egypt”! Our people came back about 5, raving about their delicious day. We find our
-            little stoves most comfortable and cheerful - we could hardly exist without them. All
-            day long, the big sail has been stretched on shore, with the men ripping and cutting -
-            now she is pronounced to be all right and is again in place on the boom. Every inch of
-            the boat outside and in, was painted last summer, in admirable fashion, making a great
-            improvement in the <name type="boat" ref="#Beduin">Beduin</name>. I never saw more beautiful paint - the tints so perfect - and
-            the finish like porcelain. We seem now to be quite perfect.</p>
+            <name type="boat" ref="#Rameses">Rameses</name> came up from 
+            <placeName ref="#Cairo">Cairo</placeName> - on which are 
+            <persName ref="#Whitehead_Mr">Mr. and Mrs. Whitehead</persName> - and <persName ref="#Whitehead_Mr">Mr. W.</persName> 
+            came over to make me a little visit - reporting <persName ref="#Whitehead_Mrs">Mrs. W.</persName> afraid to 
+            venture out in the cold, and only 35 passengers. I asked him why he had not gone to see wonderful 
+            <placeName ref="#Sakkarah">Sakkarah</placeName>, and he said “he thought he would get enough of temples 
+            and pyramids before he got out of Egypt”! Our people came back about 5, raving about their delicious day. 
+            We find our little stoves most comfortable and cheerful - we could hardly exist without them. All day long, 
+            the big sail has been stretched on shore, with the men ripping and cutting - now she is pronounced to be all 
+            right and is again in place on the boom. Every inch of the boat outside and in, was painted last summer, 
+            in admirable fashion, making a great improvement in the <name type="boat" ref="#Beduin">Beduin</name>. I 
+            never saw more beautiful paint - the tints so perfect - and the finish like porcelain. We seem now to be 
+            quite perfect.</p>
             </div> 
             
             <div xml:id="EBA18971229" type="Entry">
@@ -215,6 +218,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             was a dense fog, and the extreme cold had turned it to snow, wherever it touched. All
             the men were tremendously impressed - only one or two every having seen anything of the
             kind before.</p>
+            </div>
             
             <pb n="141"/><p>It took the sun a long time to dissipate the fog - but at last the
             clearest and brightest day we have had since we came, evolved itself - and after a
@@ -290,12 +294,12 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p><title>7 Jan. Friday.</title></p> 
             <p>A beautiful day - almost warm - and almost like <country ref="#Egypt">Egypt</country>. 
             Light winds and some tracking brought us early in the afternoon to <placeName ref="#Asyut">Assiut</placeName>. 
-            The <name type="boat" ref="#Nitassis">Nitassis</name> passed down. Got a big mail of papers and letters - and had, for the first time 
-            some positive information in regard to the sudden move of troops from <country ref="#Cairo">Cairo</country> to 
-            <placeName ref="#Sudan">the Sudan</placeName>. It was at first reported that the emergency was so great, 
-            that most of <persName ref="#Cook_Thomas">Cook’s</persName> steamers would be required, as he has the contract with 
-            Government to carry troops - but it seems that was an exaggeration. They go by rail to 
-            <placeName ref="#Nag_Hammadi">Nag Hamadi</placeName>, and then are shipped. An officer told 
+            The <name type="boat" ref="#Nitassis">Nitassis</name> passed down. Got a big mail 
+            of papers and letters - and had, for the first time some positive information in regard 
+            to the sudden move of troops from <country ref="#Cairo">Cairo</country> to <placeName ref="#Sudan">the Sudan</placeName>. 
+            It was at first reported that the emergency was so great, that most of <persName ref="#Cook_Thomas">Cook’s</persName> 
+            steamers would be required, as he has the contract with Government to carry troops - but it seems that 
+            was an exaggeration. They go by rail to <placeName ref="#Nag_Hammadi">Nag Hamadi</placeName>, and then are shipped. An officer told 
             <persName ref="#Davis_Theodore">Theodore</persName> today, that the finishing of the railway between 
             <placeName ref="#Nag_Hammadi">Nag Hamadi</placeName> and <placeName ref="#Aswan">Assouan</placeName>, was to
             be pushed on to rapid finish. <persName ref="#Buttles_Nettie">Nettie</persName> and I took a drive into 
@@ -407,7 +411,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             at noon. The day warm and delicious. Rode out to <unclear>the Temple</unclear> after lunch. My new saddle a great
             success. We had excellent donkeys and enjoyed the ride immensely. 
             <persName ref="#Petrie_Flinders">Flinders Petrie</persName> is excavating near 
-            <placeName ref="#Denderah">Denderah</placeName>. We could see <pb n="148"> the dust of the excavations - and the
+            <placeName ref="#Denderah">Denderah</placeName>. We could see <pb n="148"/> the dust of the excavations - and the
             comfortable looking house he has built there. As we reached <geogName ref="#Nile_River">the river</geogName> 
             again, we saw the <name type="boat" ref="#Isis">Isis</name> with an English flag passing - and a few moments after, 
             the <name type="boat" ref="#Alma">Alma</name> appeared, and we are lying just behind her tonight 5 miles above Keneh.</p>
@@ -470,7 +474,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18980121" type="Entry">
             <p><title>Friday, 21 Jan.</title></p> 
             <p>A delightful afternoon at <placeName ref="#Medinet_Habu_Temple">Medinet Habu</placeName>. 
-            The temple always so <pb n="150"> interesting is now
+            The temple always so <pb n="150"/> interesting is now
             swept and almost garnished - and completely excavated.</p>
             </div> 
             
@@ -511,7 +515,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <persName ref="Morton_Miss">Miss Morton to dinner. A pleasant evening. Ramadan began today.</p>
             </div> 
             
-            <pb n="151">
+            <pb n="151"/>
             
             <div xml:id="EBA18980125" type="Entry">
             <p><title>Jan. 25. Tuesday.</title></p> 
@@ -575,7 +579,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <placeName ref="#Gebel_el_Silsila">Silsileh</placeName> at 6 o’clock. 
             It has been warmer today, and is milder tonight. I have been on deck most of the day - such lovely
             colouring - and a sunset of of every colour of the rainbow - etherially delicate. Our
-            moon is <pb n="153"> now well on in her second quarter. The thermometer on my balcony this
+            moon is <pb n="153"/> now well on in her second quarter. The thermometer on my balcony this
             morning registered 36⁰.</p>
             </div> 
             
@@ -594,7 +598,8 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             wheat, and splendid palms above - and we congratulated ourselves, in spite of the fact
             that the <name type="boat" ref="#Osiris">Osiris</name> lies beyond the <name type="boat" ref="#Zenet_el_nil">Zenet</name> 
             - - then a great crowd of gyassas - then the <name type="boat" ref="#Isis">Isis</name>
-            and <name type="boat" ref="#Gazelle">Gazelle</name> and then the <name type="boat" ref="#Istar">Istar</name> . Much warmer.</p>
+            and <name type="boat" ref="#Gazelle">Gazelle</name> and then the <name type="boat" ref="#Istar">Istar</name>. 
+            Much warmer.</p>
             </div> 
             
             <div xml:id="EBA18980201" type="Entry">            
@@ -603,7 +608,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             and getting our mail, we walked along the now really handsome quay, to the beginning of 
             the barracks - where we found a new building - a Catholic Church and School - we walked 
             into the Church, new and clean, and very good, with its marble floor, and arched roof - 
-            and sat down to <pb n="154"> rest. Then to <unclear>the Hotel<unclear> to read the dispatches - I have 
+            and sat down to <pb n="154"/> rest. Then to <unclear>the Hotel<unclear> to read the dispatches - I have 
             never seen <placeName ref="#Aswan">Assouan</placeName> so busy - such crowds of boats, and business of unloading - such 
             extraordinary crowds - much black, black faces.  The long, well built quay now is really handsome 
             - and many good new buildings. What a change from 10 years ago! To the 
@@ -635,7 +640,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p>To <placeName ref="#Philae">Philae</placeName> this morning - 
             <persName ref="#Buttles_Jeanette">Nettie</persName> and <persName ref="#Andews_Emma">I</persName>, 
             with <persName ref="#Abdul">Abdul</persName> in the train at 9 o’clock. Found all the 
-            <name type="boat" ref="#Alma">Alma</name> party at the station going too. The <pb n="155">
+            <name type="boat" ref="#Alma">Alma</name> party at the station going too. The <pb n="155"/>
             station is rather difficult to get to now, so encumbered is all the territory around
             with military stores - and with railway materials waiting shipment for the <placeName ref="Sudan">Soudan</placeName> 
             A jolting, rattling three quarters of an hour brought us to <placeName ref="Shellal">Shellal</placeName"> 
@@ -662,8 +667,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             delightful.</p>
             </div> 
             
-            <pb n="156">
-        	<unclear>(not numbered)</unclear> 
+            <pb n="156"/>
             
             <div xml:id="EBA18980205" type="Entry">
             <p><title>Saturday, Feb. 5.</title></p> 
@@ -722,7 +726,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p>We came down the 3 miles to <placeName ref="#Kom_Ombo">Kom Ombo</placeName> where we now are. 
             I wakened at 5 this morning, and found we were under way. After breakfast we went up to
             the <placeName ref="#Temple_of_Kom_Ombo">temple</placeName>, and spent two pleasant hours there 
-            - in <pb n="158"> spite of high wind and the dust of the excavators outside the temple wall. 
+            - in <pb n="158"/> spite of high wind and the dust of the excavators outside the temple wall. 
             While we were there the <name type="boat" ref="#Horus">“Horus” came up with a tug, 
             flying the English flag, and pulled up ahead of us. The views from the temple plateau are so splendid, 
             I never want to come away. While we were sitting at lunch the <name type="boat" ref="#Cheops">“Cheops”</name> 
@@ -752,7 +756,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p><title>Sexigesina Sunday. Feb. 13.</title></p> 
             <p>Started early this morning, and at 12 o’clock made <placeName ref="Silsilis">Silsilis</placeName>. 
             Tremendous wind - with some difficulty made a landing on the West bank, and visited the different little
-            shrines and Specs. Then got away, but <pb n="159"> were nearly blown upon the rocks, which
+            shrines and Specs. Then got away, but <pb n="159"/> were nearly blown upon the rocks, which
             make this part of the river dangerous - and dropped our anchor just in time to save us.
             Finally succeeded in making about a mile where we now are, with the <name type="boat" ref="#Osiris">Osiris</name> 
             above us.</p>
@@ -785,7 +789,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             rowing all day until 6:30 when we stopped. We are about 4 miles from <placeName ref="#El_Kab">El Kab</placeName>.</p>
             </div>
             
-            <pb n="160">
+            <pb n="160"/>
             
             <div xml:id="EBA18980217" type="Entry">            
             <p><title>Thursday, Feb. 17.</title></p> 
@@ -816,7 +820,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             the Egypt Exploration Fund Society.</p>
             </div> 
             
-            <pb n="161">
+            <pb n="161"/>
             
             <div xml:id="EBA18980218" type="Entry">
             <p><title>Friday. Feb. 18.</title></p> 
@@ -851,7 +855,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <persName ref="#Insinger_Mr">Mr. Insinger</persName> called.</p>
             </div> 
             
-            <pb n="162"> 
+            <pb n="162"/> 
             
             <p><title>Tuesday, Feb. 22.</title></p> 
             <p>We have had up all our flag decorations in honor of the day. 
@@ -888,7 +892,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             daughter</persName> dined with us.</p>
             </div>
             
-            <pb n="162"> 
+            <pb n="163"/> 
             
             <div xml:id="EBA18980226" type="Entry">
             <p><title>Saturday, Feb. 26.</title></p> 
@@ -929,7 +933,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18980303" type="Entry">
             <p><title>Thursday, March 3d.</title></p> 
             <p>Yesterday the north wind got up early and strong and has blown without cessation all day. 
-            I did not go out this morning - <persName ref="#Bend_Mr">Mr.<pb n="164">Bend</persName> 
+            I did not go out this morning - <persName ref="#Bend_Mr">Mr.<pb n="164"/>Bend</persName> 
             and <persName ref="#Bend_Beatrice">Beatrice</persName> to lunch - all went to the races 
             in the afternoon - afterwards <persName ref="#Buttles_Jeanette">Nettie</persName> and 
             <persName ref="#Andrews_Emma">I</persName> to tea with <persName ref="#Hunhatt_Mrs">Mrs. Huhatt</persName>, 
@@ -1026,7 +1030,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18980311 type="Entry">
             <p><title>Friday, March 11.</title></p> 
             <p>Reached <placeName ref="#Sohag">Sohag</placeName> this morning and stopped for the mail.
-            The <name type="boat" ref="#Alma">Alma</name> <pb n="167"> just starting out, 
+            The <name type="boat" ref="#Alma">Alma</name> <pb n="167"/> just starting out, 
             as we pulled in. We have made about 5 miles below <placeName ref="#Sohag">Sohag</placeName> 
             - altogether 12 miles.</p>
             </div> 
@@ -1062,7 +1066,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <geogName ref="#Gebel_Abou_Feydah_Mts">Gebel Abou Feydah chain</geogName> - and were
             congratulating ourselves that we were going to pass it, when the north wind became so
             strong, we had to stop before making the last turn - as these dangerous cliffs come down
-            quite to the <pb n="#168"> water - and here we are still, with the lights of another dahabeah
+            quite to the <pb n="#168"/> water - and here we are still, with the lights of another dahabeah
             showing a little above us - we do not know what. Every night now we have 3 or 4 Gaffirs
             or guards watching us - as this part of the river always has a bad reputation - and
             there is much excitement now over the sad murder a short time since 
@@ -1088,7 +1092,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             behind us, but too far for us to make her out. She is probably the <name type="boat" ref="#Alma">Alma</name>.</p>
             </div> 
             
-            <pb n ="169">
+            <pb n ="169"/>
             
             <div xml:id="EBA1898031" type="Entry">
             <p><title>Thursday, Mar. 17.</title></p> 
@@ -1119,7 +1123,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18980319" type="Entry">            
             <p><title>Saturday, Mar. 19.</title></p> 
             <p>Made about 8 miles this morning and got as far as <placeName ref="#Bibeh">Bibeh</placeName>,
-            when the north wind was so strong we had to drop our anchor to save ourselves <pb n="170">
+            when the north wind was so strong we had to drop our anchor to save ourselves <pb n="170"/>
             from being sent on to the rocky cliffs - and we have not moved since, except as the wind
             has swayed us. The ominous sky brought the storm just as we had finished dinner. It blew
             tremendously, and the rain fell in torrents. The boat proved very tight, the only leaks
@@ -1148,7 +1152,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             </div> 
             
             <div xml:id="EBA18980321" type="Entry">
-            <p><pb n="171">Monday, March 21.</title></p> 
+            <p><pb n="171"/>Monday, March 21.</title></p> 
             <p>We have had the most exciting day I ever passed <corr>on</corr> the Nile. 
             We began the day early, with a light south wind - and found the river
             very difficult. About 10 o’clock we descried a Cook Steamer evidently stuck on the sand, 
@@ -1174,7 +1178,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
     
     		<div xml:id="EBA18980322" type="Entry">
     		<p><title>Tuesday, Mar. 22.</title></p> 
-    		<p>We were off this morning in a light south wind, at 6 o’clock. <pb n="172">
+    		<p>We were off this morning in a light south wind, at 6 o’clock. <pb n="172"/>
             The wind shifted again and again, but at last came gently and steadily from the south,
             and we came rapidly along reaching <placeName ref="#Badrashin">Bedrasheen</placeName> 
             at 4 o’clock, and making the last 15 miles from there to <placeName ref="#Cairo">Cairo</placeName> 
@@ -1208,7 +1212,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             we had a delicious drive almost quite to the <placeName ref="#Mena_House_Hotel">Mena House</placeName>. 
             The air so cool - the fields so green. Alas! they are building a trolley line to the 
             <placeName ref="#Pyramids_of_Giza">Pyramids</placeName> - and the avenue is very changed from what 
-            it was the first time I saw it. Now some disease seems to have attacked the lubbek trees <pb n="173">
+            it was the first time I saw it. Now some disease seems to have attacked the lubbek trees <pb n="173"/>
             and they are rapidly dying, with no apparent effort to replant. Young 
             <persName ref="#Bishop_Courtlandt">Courtlandt Bishop</persName> came to dine - and the 
             <persName ref="#Ayer_Mr">two Ayers, father and son</persName>, came in to call - and told us about
@@ -1243,7 +1247,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <persName ref="#Bend_Mrs">Mrs. Bend</persName> ill in her bed.</p>
             </div> 
             
-            <pb n="174">
+            <pb n="174"/>
             
             <div xml:id="EBA18980328" type="Entry">
             <p><title>Monday, Mar. 28.</title></p> 
@@ -1349,7 +1353,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             news as to probably war with <placeName ref="#Spain">Spain</placeName> - and accounts of the brilliant
             and decisive battle fought by <persName ref="#Kitchener_Herbert">Kitchener</persName>, 
             the Sirdar in the Soudan - great loss of dervishes. <persName ref="#Mohammed_General">Mahomet</persName>, 
-            the general captured. We have the corresponding rooms, only <pb n="177">
+            the general captured. We have the corresponding rooms, only <pb n="177"/>
             one storey higher, than those we had last year. Drove to 
             <placeName ref="#St._Peter's_Basilica">St. Peters</placeName> this morning and to
             <placeName ref="#Villa_Borghese_Gardens">Villa Borghese</placeName> this afternoon. 
@@ -1399,7 +1403,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             afternoon. <persName ref="Bull_Dr">Dr. Bull</persName> to dine with us. 
             <persName ref="#Richter_Dr">Dr. Richter</persName> came.</p>
             
-            <pb n="178">
+            <pb n="178"/>
             
             <div xml:id="EBA18980415" type="Entry">
             <p><title>Friday, April 15.</title></p> 
@@ -1424,7 +1428,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             of the carriage up - beautiful storm effects on that wide Campagna, with the tops 
             of <unclear><geogName ref="#Appian_Mountains">the Mts.</geogName></unclear> white 
             with snow. <persName ref="#Norman_Mrs">Mrs. Norman</persName> and 
-            <persName ref="#Mabel">Mabel<persName> came to dine.</p>
+            <persName ref="#Mabel">Mabel</persName> came to dine.</p>
             </div> 
             
             <div xml:id="EBA18980418" type="Entry">
@@ -1443,7 +1447,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             a sensation indeed. <persName ref="#Elliot_Mr">The Elliots</persName> called this evening</p>. 
             </div>
             
-            <pb n="179">
+            <pb n="179"/>
             
             <div xml:id="EBA18980419" type="Entry">
             <p><title>Tuesday, April 19.</title></p> 
@@ -1484,7 +1488,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18980429" type="Entry">
             <p><title>Hotel Cavour. Milan. April 29.</title></p> 
             <p>We have made a great stride on our blessed way home to 
-            <persName ref="#Toby">Toby</persName> <pb n="180"> and the Reef. <corr>War</corr> 
+            <persName ref="#Toby">Toby</persName> <pb n="180"/> and the Reef. <corr>War</corr> 
             having been declared, <persName ref="#Davis_Theodore">Theodore</persName> 
             naturally began to feel uneasy, and to my great satisfaction decided to give up 
             <placeName ref="#Venice">Venice</placeName>, and go home on the 
@@ -1520,7 +1524,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <p><title>Sunday, May 1st.</title></p> 
             <p>The brilliant sunshine looked into my room this morning and the
             views across the lake were glorious with the snow capped mountains, and the green hills
-            enclosing the heavenly blue lake. Drove for 2 hours <pb n="181"> this morning 
+            enclosing the heavenly blue lake. Drove for 2 hours <pb n="181"/> this morning 
             among the hills and around the lake. All the country is full of blossoming cherry trees 
             - meadows gay with flowers - the hum of bees and the song of birds. I heard the 
             nightingales at 4 o’clock this morning. Wrote letters this afternoon and we had 
@@ -1556,7 +1560,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             company, with a bright wood fire.</p>
             </div> 
             
-            <pb n="182"> 
+            <pb n="182"/> 
             
             <div xml:id="EBA18980514" type="Entry">
             <p><title>Paris May 14.</title></p> 
@@ -1589,7 +1593,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             of a roof. I had a nice little cabin, and laid down and slept most of the way - and the
             sea was smooth. Found our old quarters at this most comfortable of all hotels - and the
             weather has been good. Shopped a little and drove in <placeName ref="Hyde_Park">the Park</placeName> 
-            yesterday and today. <pb n="183"> This afternoon went with <persName ref="#Davis_Theodore">Theodore</persName> 
+            yesterday and today. <pb n="183"/> This afternoon went with <persName ref="#Davis_Theodore">Theodore</persName> 
             around to the <placeName ref="#Burlington_Arts_Club">Burlington_Arts_Club</placeName> to see the
             collection of Milanese paintings - quite charming and interesting. Found the photograph
             of <graphic ref="#The_Leonardo">our Leonardo</graphic> there opposite 
@@ -1625,7 +1629,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <placeName ref="#Hyde_Park">The Park</placeName> lovely, backward as is the season, 
             the trees are well out now, and the thorns beginning to show their flowers. 
             <persName ref="#Bridgman_Dr">Dr. Bridgman</persName> called after lunch and 
-            made me a visit - telling me all about <pb n="184"> our war! <corr>How</corr> 
+            made me a visit - telling me all about <pb n="184"/> our war! <corr>How</corr> 
             the Spaniards had a disciplined navy, and we had not - how much cleverer and 
             quicker they were than we - what an unrighteous war it was - but that in the 
             end we must win, for <country ref="#England">they</country> (England) 
@@ -1661,7 +1665,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             the big dock, with the <name type="boat" ref="#Kaiser_Wilhelm_der_Grosse">Kaiser</name> 
             lying close to it, she looked enormous from the train. On three consecutive days 
             we made 560 miles - and the voyage would have made a record, had we not 2 days 
-            before reaching <pb n="185"> <placeName ref="New_York">New York</placeName>,
+            before reaching <pb n="185"/> <placeName ref="New_York">New York</placeName>,
             broke one or the blades of one of the screws. However, we were in our slip by 
             10:30 this morning.</p>
             </div> 

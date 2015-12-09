@@ -1034,7 +1034,7 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18980312" type="Entry">
             <p><title>Saturday, March 12.</title></p> 
             <p>A splendid day - began rowing in a calm at 4:30 A.M. when a gentle south wind came up, 
-            and carried us on to our victorious way until we reached <placeName ref="#Assiut">Assiut</placeName> 
+            and carried us on to our victorious way until we reached <placeName ref="#Asyut">Assiut</placeName> 
             at 7 o’clock P.M. - having made 63 miles. <name type="boat" ref="#Olga">Olga</name>, 
             <name type="boat" ref="#Alma">Alma</name> and <name type="boat" ref="#Istar">Istar</name> here. 
             <persName ref="#Ayer_Mr">The Ayers</persName> came over and spent the evening - but I did not see 
@@ -1044,56 +1044,82 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             <div xml:id="EBA18980313" type="Entry">
             <p><title>3d Sunday in Lent. March 13.</title></p> 
             <p>Have made 6 miles this day. Left the <name type="boat" ref="#Alma">Alma</name> and 
-            <name type="boat" ref="#Istar">Istar</name> at <name type="boat" ref="#Assiut">Assiut</name> 
-            looking after inscriptions in the Mountains I suppose. Overtook the <name type="boat" ref="#Olga">Olga, but she has since floated out of sight. 
+            <name type="boat" ref="#Istar">Istar</name> at <name type="boat" ref="#Asyut">Assiut</name> 
+            looking after inscriptions in the Mountains I suppose. Overtook the <name type="boat" ref="#Olga">Olga</name>, 
+            but she has since floated out of sight.</p> 
+            </div>
             
-            Monday, March 14. Another slow day,
-            with north wind. We have passed Manfalout, making altogether we think about 22 miles.
+            <div xml:id="EBA18980314" type="Entry">
+            <p><title>Monday, March 14.</title></p> 
+            <p>Another slow day, with north wind. We have passed <placeName ref="#Manfalout">Manfalout</placeName>, 
+            making altogether we think about 22 miles</p>.
+            </div>
             
-            Tuesday, March 15. An exasperating day. We started early and rowed around the two great
-            turns between Manfalout and half way past the Gebel Abou Feydah chain - and were
+            <div xml:id="EBA18980315" type="Entry">
+            <p><title>Tuesday, March 15.</title></p> 
+            <p>An exasperating day. We started early and rowed around the two great
+            turns between <placeName ref="#Manfalout">Manfalout</placeName> and half way past the 
+            <geogName ref="#Gebel_Abou_Feydah_Mts">Gebel Abou Feydah chain</geogName> - and were
             congratulating ourselves that we were going to pass it, when the north wind became so
             strong, we had to stop before making the last turn - as these dangerous cliffs come down
-            quite to the PAGE 168 water - and here we are still, with the lights of another dahabeah
+            quite to the <pb n="#168"> water - and here we are still, with the lights of another dahabeah
             showing a little above us - we do not know what. Every night now we have 3 or 4 Gaffirs
             or guards watching us - as this part of the river always has a bad reputation - and
-            there is much excitement now over the sad murder a short time since at Maghagah of Lord
-            Cowper’s valet, who left the dahabeah for the Post Ofice, and missing his way back, was
-            decoyed it is supposed into the sugar cane. His body was found the same evening robbed -
-            and he had been strangled after a violent struggle. This has made a great stir -
-            especially as two murders of natives in the same vicinity have since taken place. The
-            “Mimi” passed us this afternoon in tow of a tug. Made about 8 miles. 
+            there is much excitement now over the sad murder a short time since 
+            <unclear>at Maghagah of Lord Cowper’s valet</unclear>, who left the dahabeah for the Post Ofice, 
+            and missing his way back, was decoyed it is supposed into the sugar cane. His body was 
+            found the same evening robbed - and he had been strangled after a violent struggle. This 
+            has made a great stir - especially as two murders of natives in the same vicinity have since 
+            taken place. The <name type="boat" ref="#Mimi">“Mimi”</name> passed us this afternoon in tow of a tug. 
+            Made about 8 miles.</p>
+            </div> 
             
-            Wednesday, March
-            16. In spite of the wind, we have come bravely along today - and are now just by
-            Melawi-el-Arieh, having made 25 miles. This morning before 7 o’clock the Herodotus in
-            tow passed down - and about 11 o’clock this morning we came upon her sticking tight in
-            the sand. She must have been there a long time and we were just preparing to offer
-            assistance, when she began to start. Too windy to be on deck today until about 4 o’clock
-            when I went up - and we had tea there - and a beautiful sail, or row until dark -
-            passing the end of the Abu Feydah chain - with a lovely bank of palm trees - villages -
-            fields - cattle, sheep and the evening air of repose over all. There is a dahabeah just
-            behind us, but too far for us to make her out. She is probably the Alma. PAGE 169
+            <div xml:id="EBA18980316" type="Entry">
+            <p><title>Wednesday, March 16.</title></p> 
+            <p>In spite of the wind, we have come bravely along today - and are now just by
+            <placeName ref="#Melawi-el-Arieh">Melawi-el-Arieh</placeName>, having made 25 miles. 
+            This morning before 7 o’clock the <name type="boat" ref="#Herodotus">Herodotus</name> 
+            in tow passed down - and about 11 o’clock this morning we came upon her sticking tight in the sand. 
+            She must have been there a long time and we were just preparing to offer assistance, when 
+            she began to start. Too windy to be on deck today until about 4 o’clock when I went up 
+            - and we had tea there - and a beautiful sail, or row until dark - passing the end of the 
+            <geogName ref="#Abu_Feydah_Mts">Abu Feydah chain</geogName> - with a lovely bank of palm trees 
+            - villages - fields - cattle, sheep and the evening air of repose over all. There is a dahabeah just
+            behind us, but too far for us to make her out. She is probably the <name type="boat" ref="#Alma">Alma</name>.</p>
+            </div> 
             
-            Thursday, Mar. 17. Early this morning I was wakened by hearing Jones saying to Theodore
-            in the hall that we were passing the Olga stuck in the sand, and raising my curtain I
+            <pb n ="169">
+            
+            <div xml:id="EBA1898031" type="Entry">
+            <p><title>Thursday, Mar. 17.</title></p> 
+            <p>Early this morning I was wakened by hearing <persName ref="#Jones_Daniel">Jones</persName> saying to 
+            <persName ref="#Davis_Theodore">Theodore</persName> in the hall that we were passing the 
+            <name type="boat" ref="#Olga">Olga<name> stuck in the sand, and raising my curtain I
             saw her plainly - her stern right in the bank and slightly tilted. None of the family
-            visible - and she had the air of having adapted herself to the situation. Theodore sent
-            word to ask if we could help her - but it seems she had been there for more than a day,
-            and there was nothing but a tug - so after stopping a moment we came on. The Mimi passed
-            us in tow later on - and we floated and rowed making Pinieh at 6:30, where we stopped
-            for mail. Made 31-1/2 miles. 
+            visible - and she had the air of having adapted herself to the situation. 
+            <persName ref="#Daivs_Theodore">Theodore</persName> sent word to ask if we could help her - 
+            but it seems she had been there for more than a day, and there was nothing but a tug - so 
+            after stopping a moment we came on. The <name type="boat" ref="#Mimi">Mimi</name> passed us 
+            in tow later on - and we floated and rowed making <placeName ref="#Pinieh">Pinieh</placeName> 
+            at 6:30, where we stopped for mail. Made 31-1/2 miles.</p>
+            </div> 
             
-            Friday, Mar. 18. Started early, Mimi passed us as we pulled
+            <div xml:id="EBA18980318" type="Entry">
+            <p><title>Friday, Mar. 18.</title></p> 
+            <p>Started early, <name type="boat" ref="#Mimi">Mimi</name> passed us as we pulled
             out and a good light wind has prevailed all day and we have come on splendidly. Passed
-            Gelassaneh, abu Girgeh, Haghaha, and are now about 2 miles above Fasben having made 62
-            miles. The river has been very difficult today in several places - we were on the sand
-            for a few minutes - and I cannot imagine how the boats we left behind us can get through
-            - as even we with our light draught find it so difficult. It rained gently for a little
-            while today. 
+            <placeName ref="#Gelassaneh">Gelssaneh</placeName> <placeName ref="#abu_Girgeh">abu Girgeh</placeName>, 
+            <placeName ref="#Hurgada">Haghaha</placeName>, and are now about 2 miles above 
+            <placeName ref="#Fasben">Fasben</placeName> having made 62 miles. The river has been very difficult 
+            today in several places - we were on the sand for a few minutes - and I cannot imagine how the boats
+            we left behind us can get through - as even we with our light draught find it so difficult. It 
+            rained gently for a little while today.</p>
+            </div> 
             
-            Saturday, Mar. 19. Made about 8 miles this morning and got as far as Bibeh,
-            when the north wind was so strong we had to drop our anchor to save ourselves PAGE 170
+            <div xml:id="EBA18980319" type="Entry">            
+            <p><title>Saturday, Mar. 19.</title></p> 
+            <p>Made about 8 miles this morning and got as far as <placeName ref="#Bibeh">Bibeh</placeName>,
+            when the north wind was so strong we had to drop our anchor to save ourselves <pb n="170">
             from being sent on to the rocky cliffs - and we have not moved since, except as the wind
             has swayed us. The ominous sky brought the storm just as we had finished dinner. It blew
             tremendously, and the rain fell in torrents. The boat proved very tight, the only leaks
@@ -1101,304 +1127,547 @@ SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
             - and towels, cups and bowls were put in requisition. I took a volume of McMasters
             History of the People of the United States from the bookcases this evening, and chanced
             upon the interesting and pathetic history of the settlement of Galliopolis in Ohio -
-            which I had never read before. 
+            which I had never read before.</p>
+            </div> 
             
-            4th Sunday in Lent. Mar. 20. I did not get to bed last
-            night until nearly one o’clock. The storm which seemed to pass away in the evening,
-            burst upon us again after eleven. All the family had gone to bed - so Theodore and I
-            stayed up and again put in use the bowls, cups, and towels. For the first time, I really
-            felt a little afraid as we were lying in the middle of the river - we had 3 anchors
-            down, and the boat tugged at them most unpleasantly. Early this morning we pulled to the
-            anchor to a safer place, and put out our 3 anchors on a little sand island, where we are
-            still lying, the wind having blown great guns all day. The Ramses passed us early -
-            feeling her way very cautiously indeed. I went on deck for a few moments after tea - but
-            it was too windy to be pleasant - though the air was soft and deliciously full of the
-            fragrance of clover blossoms. Wrote my Sunday letter to Mrs. Titus - and one to Jennie
-            Buttles in Gambier. 
+            <div xml:id="EBA18980320" type="Entry">
+            <p><title>4th Sunday in Lent. Mar. 20.</title></p> 
+            <p>I did not get to bed last night until nearly one o’clock. The storm which seemed to 
+            pass away in the evening, burst upon us again after eleven. All the family had gone to bed 
+            - so <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Andrews_Emma">I</persName> 
+            stayed up and again put in use the bowls, cups, and towels. For the first time, I really felt a 
+            little afraid as we were lying in the middle of the river - we had 3 anchors down, and the 
+            boat tugged at them most unpleasantly. Early this morning we pulled to the anchor to a safer place, 
+            and put out our 3 anchors on a little sand island, where we are still lying, the wind having blown 
+            great guns all day. The <name type="boat" ref="#Ramses">Ramses</name> passed us early - feeling 
+            her way very cautiously indeed. I went on deck for a few moments after tea - but it was too windy to be 
+            pleasant - though the air was soft and deliciously full of the fragrance of clover blossoms. 
+            Wrote my Sunday letter to <persName ref="#Titus_Mrs">Mrs. Titus</persName> - and one to 
+            <persName ref="#Buttles_Jeanette">Jennie Buttles</persName> in <placeName ref="#Gambier">Gambier</placeName>.
+            </p>
+            </div> 
             
-            PAGE 171 Monday, March 21. We have had the most exciting day I ever
-            passed o the Nile. We began the day early, with a light south wind - and found the river
-            very difficult. About 10 o’clock we descried a Cook Steamer evidently stuck on the sand,
-            ahead of us - and on coming up with her found her to be the Ammartis, which passed us
+            <div xml:id="EBA18980321" type="Entry">
+            <p><pb n="171">Monday, March 21.</title></p> 
+            <p>We have had the most exciting day I ever passed <corr>on</corr> the Nile. 
+            We began the day early, with a light south wind - and found the river
+            very difficult. About 10 o’clock we descried a Cook Steamer evidently stuck on the sand, 
+            ahead of us - and on coming up with her found her to be the 
+            <name type="boat" ref="#Ammartis">Ammartis</name>, which passed us
             yesterday. She was surrounded by gyasses, who were relieving her of some of her luggage.
-            Not long after we passed the Steamer Shellal, a complete wreck, and partly submerged.
-            She was deserted and in the hands of the wreckers - having stove a hole in her bottom on
-            some unsuspected stones in the river. Half an hour after sitting at luncheon, our boat
-            gave a sudden lurch, and there was a grinding of stones under her bow. We all rushed on
-            forward deck, fearing some real calamity; but examination showed no leak, and we came on
-            our way rejoicing; but it was rather nervous work for awhile. Next we saw one of the
-            large Gage steamers, empty, and abandoned, and left tied to the bank, to wait for higher
-            water, so that she could get down the river. Then we came up the Ammartis, who had got
-            off the sand, and passed us a short time before, transferring her passengers to the
-            Tewfik, who was sending her to the Ammartis - the latter drawing less water. So when we
-            found ourselves tonight 6 miles below Wasta and having made 37 miles, and only touched
-            sand once for a moment, we congratulated ourselves. A beautiful day and evening.
-            Tuesday, Mar. 22. We were off this morning in a light south wind, at 6 o’clock. PAGE 172
-            
+            Not long after we passed the Steamer <name type="boat" ref="#Shellal">Shellal</name>, 
+            a complete wreck, and partly submerged. She was deserted and in the hands of the wreckers 
+            - having stove a hole in her bottom on some unsuspected stones in the river. Half an hour 
+            after sitting at luncheon, our boat gave a sudden lurch, and there was a grinding of stones 
+            under her bow. We all rushed on forward deck, fearing some real calamity; but examination 
+            showed no leak, and we came on our way rejoicing; but it was rather nervous work for awhile. 
+            Next we saw one of the large <name type="boat" ref="#Gage_Steamer">Gage steamers</name>, 
+            empty, and abandoned, and left tied to the bank, to wait for higher water, so that she 
+            could get down the river. Then we came up the <name type="boat" ref="#Ammartis">Ammartis</name>, 
+            who had got off the sand, and passed us a short time before, transferring her passengers to the
+            <name type="boat" ref="#Tewfik">Tewfik</name>, who was sending her to the 
+            <name type="boat" ref="#Ammartis">Ammartis</name> - the latter drawing less water. So when we
+            found ourselves tonight 6 miles below <placeName ref="#Al_Wasta">Wasta</placeName> and having 
+            made 37 miles, and only touched sand once for a moment, we congratulated ourselves. A beautiful 
+            day and evening.</p>
+            </div>
+    
+    		<div xml:id="EBA18980322" type="Entry">
+    		<p><title>Tuesday, Mar. 22.</title></p> 
+    		<p>We were off this morning in a light south wind, at 6 o’clock. <pb n="172">
             The wind shifted again and again, but at last came gently and steadily from the south,
-            and we came rapidly along reaching Bedrasheen at 4 o’clock, and making the last 15 miles
-            from there to Cairo or rather Ghizeh at 6:30. Here we found the landing place all along
-            in front of the Museum, crowded with dahabeahs - and with some difficulty we found a
-            place. I have never seen so beautiful an approach to Cairo - in the afternoon and
-            evening light, the very picturesque scene of houses and trees at Old Cairo, and the
-            island of Rhoda, dominated by the great Citadel with the dome and slender minarets of
-            the mosque of Mohamet Ali were wonderful. 
+            and we came rapidly along reaching <placeName ref="#Badrashin">Bedrasheen</placeName> 
+            at 4 o’clock, and making the last 15 miles from there to <placeName ref="#Cairo">Cairo</placeName> 
+            or rather <placeName ref="#Giza">Ghizeh</placeName> at 6:30. Here we found the landing place all along
+            in front of <unclear><placeName ref="#Egyptian_Musuem">the Museum</placeName></unclear>, 
+            crowded with dahabeahs - and with some difficulty we found a place. I have never seen 
+            so beautiful an approach to <placeName ref="#Cairo">Cairo</placeName> - in the afternoon and 
+            evening light, the very picturesque scene of houses and trees at 
+            <placeName ref="#Old_Cairo">Old Cairo</placeName>, and the 
+            <geogName ref="#Al_Manyal_ar-Rawdah">island of Rhoda</geogName>, dominated by the great Citadel 
+            with the dome and slender minarets of the 
+            <placeName ref="#Mosque_of_Muhammad_Ali">mosque of Mohamet Ali</placeName> were wonderful.</p>
+            </div> 
             
-            Wednesday, Mar. 23. A warm, cloudless day -
-            home all the morning, and driving with Nettie this afternoon. 
+            <div xml:id="EBA18980323" type="Entry">
+            <p><title>Wednesday, Mar. 23.</title></p> 
+            <p>A warm, cloudless day - home all the morning, and driving with 
+            <persName ref="#Buttles_Jeanette">Nettie</persName> this afternoon.</p>
+            </div> 
             
-            Thursday, Mar. 24. At home
-            all day - very hot - high Kamseen wind. Istar came down tonight. 
+            <div xml:id="EBA18980324" type="Entry">            
+            <p><title>Thursday, Mar. 24.</title></p> 
+            <p>At home all day - very hot - high Kamseen wind. <name type="boat" ref="#Istar">Istar</name> 
+            came down tonight.</p>
+            </div> 
             
-            Friday, Mar. 25. Drove
-            into Cairo with Nettie in the morning. In the afternoon we had a delicious drive almost
-            quite to the Mena House. The air so cool - the fields so green. Alas! they are building
-            a trolley line to the Pyramids - and the avenue is very changed from what it was the
-            first time I saw it. Now some disease seems to have attacked the lubbek trees PAGE 173
-            and they are rapidly dying, with no apparent effort to replant. Young Courtlandt Bishop
-            came to dine - and the two Ayers, father and son, came in to call - and told us about
+            <div xml:id="EBA18980325" type="Entry">
+            <p><title>Friday, Mar. 25.</title></p> 
+            <p>Drove into <placeName ref="#Cairo">Cairo</placeName> with 
+            <persName ref="#Buttles_Nettie">Nettie</persName> in the morning. In the afternoon 
+            we had a delicious drive almost quite to the <placeName ref="#Mena_House_Hotel">Mena House</placeName>. 
+            The air so cool - the fields so green. Alas! they are building a trolley line to the 
+            <placeName ref="#Pyramids_of_Giza">Pyramids</placeName> - and the avenue is very changed from what 
+            it was the first time I saw it. Now some disease seems to have attacked the lubbek trees <pb n="173">
+            and they are rapidly dying, with no apparent effort to replant. Young 
+            <persName ref="#Bishop_Courtlandt">Courtlandt Bishop</persName> came to dine - and the 
+            <persName ref="#Ayer_Mr">two Ayers, father and son</persName>, came in to call - and told us about
             their troubles descending - having arrived yesterday morning. She was 2 days on the sand
             - and got off by employing a windlass and crew of a big gyassa passing. A new moon
-            tonight. 
+            tonight.</p>
+            </div> 
             
-            Saturday, Mar. 26. The wind blew great guns last night - and made such a noise
+            <div xml:id="EBA18980326" type="Entry">
+            <p><title>Saturday, Mar. 26.</title></p> 
+            <p>The wind blew great guns last night - and made such a noise
             - the water dashing and splashing under the stern, and my very head - and when I wakened
             this morning, the rain was dashing against my windows. Fortunately it did not rain hard,
-            or last long - Theodore went in town to lunch with the Bends, and play chess. Nettie and
-            I drove into Cairo on some necessary affairs, bringing Theodore home with us. Monty off
-            riding - weather cool and delightful now. We are quite anxious over the dispatches of
-            the day, from the United States. That Pres. McKinley’s message says that the Maine was
-            destroyed from outside torpedo and that the U.S. had recognized the Cuban insurgents -
-            very disquieting. 
+            or last long - <persName ref="#Davis_Theodore">Theodore</persName> went in town to lunch 
+            with the <persName ref="#Bend_Mr">Bends</persName>, and play chess. 
+            <persName ref="#Buttles_Jeanette">Nettie</persName> and <persName ref="#Andrews_Emma">I</persName> 
+            drove into <placeName ref="#Cairo">Cairo</placeName> on some necessary affairs, bringing 
+            <persName ref="#Davis_Theodore">Theodore</persName> home with us. <persName ref="#Monty">Monty</persName>
+            off riding - weather cool and delightful now. We are quite anxious over the dispatches of
+            the day, from the United States. That <persName ref="#McKinley_William_Pres">Pres. McKinley’s</persName> 
+            message says that the <placeName ref="#Maine">Maine</persName> was destroyed from outside torpedo and 
+            that the U.S. had recognized the Cuban insurgents - very disquieting.</p> 
+            </div>
             
-            5 Sunday in Lent. Mar. 27. To the Museum this morning. Mr. Varley,
-            Judge Royal, and Mr. Faviger came to tea and made a long pleasant visit. Amy Bend and
-            Mr. Bishop also turned up - and Mr. Bend and the two girls came to dine. Mrs. Bend ill
-            in her bed. 
+            <div xml:id="EBA18980327" type="Entry">
+            <p><title>5 Sunday in Lent. Mar. 27.</title></p> 
+            <p>To <placeName ref="#Egyptian_Museum">the Museum</placeName> this morning. 
+            <persName ref="#Varley_Mr">Mr. Varley</persName>, <persName ref="#Royal_Judge">Judge Royal</persName>, 
+            and <persName ref="#Faviger_Mr">Mr. Faviger</persName> came to tea and made a long pleasant visit. 
+            <persName ref="#Bend_Amy">Amy Bend</persName> and <persName ref="#Bishop_Courtlandt">Mr. Bishop</persName> 
+            also turned up - and <persName ref="#Bend_Mr">Mr. Bend and the two girls</persName>came to dine. 
+            <persName ref="#Bend_Mrs">Mrs. Bend</persName> ill in her bed.</p>
+            </div> 
             
-            Page 174 Monday, Mar. 28. Very hot all day - home in the morning - and at 5
-            o’clock in the afternoon Nettie and I drove out to the Mena House and had tea, and home
-            quite late. 
+            <pb n="174">
             
-            Tuesday, Mar 29. Theodore, Monty and I spent the morning at the Museum -
-            principally in the rooms up stairs - and I came home well tired. Home all afternoon -
-            very hot. Dr. James Ayer came to dine. Political news from home more reassuring.
+            <div xml:id="EBA18980328" type="Entry">
+            <p><title>Monday, Mar. 28.</title></p> 
+            <p>Very hot all day - home in the morning - and at 5 o’clock in the afternoon 
+            <persName ref="#Buttles_Jeanette">Nettie</persName> and <persName ref="#Andrews_Emma">I</persName>
+            drove out to the <placeName ref="#Mena_House_Hotel">Mena House</placeName> and 
+            had tea, and home quite late.</p>
+            </div> 
             
-            Wednesday, Mar. 30. The hottest day I ever spent on the Nile. My room, always the
-            coolest on the heat, had a temperature of 80⁰ and the Cabana 90⁰. Theodore and I drove
-            into town to see the Bends this morning. Home, and busy this afternoon with preparations
-            for packing. 
+            <div xml:id="EBA18980329" type="Entry">
+            <p><title>Tuesday, Mar 29.</title></p> 
+            <p><persName ref="#Davis_Theodore">Theodore</persName>, <persName ref="#Monty">Monty</persName> 
+            and <persName ref="#Andrews_Emma">I</persName> spent the morning at 
+            <placeName ref="#Egyptian_Museum">the Museum</placeName> - principally in the rooms 
+            up stairs - and I came home well tired. Home all afternoon - very hot. 
+            <persName ref="#Ayer_James_Dr">Dr. James Ayer</persName> came to dine. 
+            Political news from home more reassuring.</p>
+            </div>
             
-            Thursday, Mar. 31. An uncomfortable day - hot - strong wind - a busy day of
-            packing and dismantling - the last night is always sade. Friday, April 1. Came to the
-            Ghesireh Palace this afternoon - found the grand apartment formerly used by Ismail Pacha
+            <div xml:id="EBA18980330" type="Entry">
+            <p><title>Wednesday, Mar. 30.</title></p> 
+            <p>The hottest day I ever spent on <geogName ref="#Nile_River">the Nile</geogName>. 
+            My room, always the coolest on the heat, had a temperature of 80⁰ and the Cabana 90⁰. 
+            <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Andrews_Emma">I</persName> 
+            drove into town to see <persName ref="#Bend_Mr">the Bends</persName> this morning. 
+            Home, and busy this afternoon with preparations for packing.</p>
+            </div> 
+            
+            <div xml:id="EBA18980331" type="Entry">
+            <p><title>Thursday, Mar. 31.</title></p> 
+            <p>An uncomfortable day - hot - strong wind - a busy day of
+            packing and dismantling - the last night is always sade.</p> 
+            </div>
+            
+            <div xml:id="EBA18980401" type="Entry">
+            <p><title>Friday, April 1.</title></p> 
+            <p>Came to the <placeName ref="#Ghesireh_Palace">Ghesireh Palace</placeName> this afternoon 
+            - found the grand apartment formerly used by <persName ref="#Pasha_Isma'il">Ismail Pacha</persName> 
             ready for us - the rooms enormous - richly furnished and decorated, the salon and my
-            room looking on the river - and seeming very cool and comfortable this hot night.
+            room looking on the river - and seeming very cool and comfortable this hot night.</p>
+            </div>
             
-            Saturday, April 2. Drove to the dahabeah this morning and then went to the Museum -
-            where it was cool and delightful. Coming out the heat was so intense, that even in a
-            covered carriage it seemed really terrifying. Late in the afternoon Nettie and I drove
-            into town to shops and looked after many things. We keep the enormous windows of our
-            rooms closed from early morning - until seven o’clock at night when they are opened for
-            the cool air - and they admit also mosquitoes and bats. 
+            <div xml:id="EBA18980402" type="Entry">
+            <p><title>Saturday, April 2.</title></p> 
+            <p>Drove to the dahabeah this morning and then went to 
+            <placeName ref="#Egytpian_Museum">the Museum</placeName> - where it was cool and 
+            delightful. Coming out the heat was so intense, that even in a covered carriage 
+            it seemed really terrifying. Late in the afternoon <persName ref="#Buttles_Jeanette">Nettie</persName> 
+            and <persName ref="#Andrews_Emma">I</persName> drove into town to shops and looked 
+            after many things. We keep the enormous windows of our rooms closed from early morning 
+            - until seven o’clock at night when they are opened for the cool air - and 
+            they admit also mosquitoes and bats.</p>
+            </div> 
             
-            Sunday, April 3. Palm Sunday. I
-            have not had the courage to move out of the house until at 6 o’clock, after having had a
-            cup of tea, Theodore and I went over to Cairo to pay some farewell visits. In cross the
+            <div xml:id="EBA18980403" type="Entry">
+            <p><title>Sunday, April 3. Palm Sunday.</title></p> 
+            <p>I have not had the courage to move out of the house until at 6 o’clock, after having had a
+            cup of tea, <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Andrews_Emma">I</persName> 
+            went over to <placeName ref="#Cairo">Cairo</placeName> to pay some farewell visits. In cross the
             bridge, the reflected heat from the iron at the sides, was like a blast from a furnace.
-            We found Mrs. Sandwith in the garden with the children - she said the thermometer stood
-            an hour before at 97⁰. 
+            We found <persName ref="#Sandwith_Mrs">Mrs. Sandwith</persName> in the garden with 
+            the children - she said the thermometer stood an hour before at 97⁰.</p>
+            </div> 
             
-            Monday, April 4. A farewell visit to the boat this morning, and a
-            visit to Phillips the antiquity dealer in Cairo afterwards. Very hot - with the same
-            high, hot Khamseen wind we have had for 2 days. Mme. Sopher came over this afternoon to
+            <div xml:id="EBA18980404" type="Entry">
+            <p><title>Monday, April 4.</title></p> 
+            <p>A farewell visit to the boat this morning, and a
+            visit to <persName ref="#Phillips">Phillips</persName><corr>,</corr> 
+            the antiquity dealer<corr>,</corr> in <placeName ref="#Cairo">Cairo</placeName> 
+            afterwards. Very hot - with the same high, hot Khamseen wind we have had for 2 days. 
+            <persName ref="#Sopher_Mme">Mme. Sopher</persName> came over this afternoon to
             shampoo our heads. Our last preparations are all made - and we shall be off tomorrow -
-            Rais Fuli and Abdul came PAGE 176 this evening to see the magnificence of the Palace. It
-            was amusing to see their impressions. Hotel Bristol. 
+            <persName ref="#Fuli_Rais">Rais Fuli</persName> and <persName ref="#Abdul">Abdul</persName> 
+            came <pb n="176"> this evening to see the magnificence of 
+            <placeName ref="#Ghesireh_Palace">the Palace</persName>. It was amusing to see 
+            their impressions. <placeName ref="#Hotel_Bristol">Hotel Bristol</placeName>.</p>
+            </div> 
             
-            Rome - Saturday, April 9th. Arrived
-            last night - after a very good and comfortable voyage in the Rubitine Steamer Regina
-            Margherita. Left Cairo the morning of Tuesday April 5, early - weather having so
-            entirely changed, that we were cold in driving to the station. Rais Fuli, Abdul,
-            Ebrahim, the Cook, and Mohamet Dervish, and our good Salah, were all waiting at the
-            station for us. As Prince Mohamet Ali and the wife of the French Minister were all going
+            <div xml:id="EBA18980409" type="Entry">
+            <p><title>Rome - Saturday, April 9th.</title></p> 
+            <p>Arrived last night - after a very good and comfortable voyage in the Rubitine Steamer 
+            <name type="boat" ref="#Regina_Margherita">. Left <placeName ref="#Cairo">Cairo</placeName> 
+            the morning of Tuesday April 5, early - weather having so entirely changed, that 
+            we were cold in driving to the station. <persName ref="#Fuli_Rais">Rais Fuli</persName>, 
+            <persName ref="#Abdul">Abdul</persName>,<persName ref="Ibrahim">Ebrahim</persName>, 
+            <persName ref="#Ibrahim_Hannah">the Cook</persName>, and 
+            <persName ref="Dervish_Mohammed">Mohamet Dervish</persName>, and our good 
+            <persName ref="#Salah_Mohammed">Salah</persName>, were all waiting at the
+            station for us. As <persName ref="#Ali_Mohammed_Prince">Prince Mohamet Ali</persName> 
+            and <unclear>the wife of the French Minister</unclear> were all going
             by the same train, there was a very smart gathering of people - especially of red fezs -
-            even Lord Cromer was there. The Ayers also crossed with us. The steamer was very clean
+            even <persName ref="#Cromer_Lord">Lord Cromer</persName> was there. 
+            <persName ref="Ayer_Mr">The Ayers</persName> also crossed with us. 
+            <name type="boat" ref="#Regina_Margherita">The steamer</name> was very clean
             and comfortable - I had a deck room, with a double bed, so delightful, with a good
             window by day, and an electric light by night, that I stopped in bed until 5 o’clock of
-            the last day - with my books - and had a beautiful rest. Reached Naples and landed by 8
-            o’clock - had breakfast at the Grand - and then a charming drive up the hill and over to
-            Posillippo, and then back in time for early lunch, and off for Rome by one o’clock -
-            which we reached for dinner in our pleasant sitting room at 7:30. Found piles of letter
-            waiting. Very serious news as to probably war with Spain - and accounts of the brilliant
-            and decisive battle fought by Kitchener, the Sirdar in the Soudan - great loss of
-            dervishes. Mahomet the general captured. We have the corresponding rooms, only PAGE 177
-            one storey higher, than those we had last year. Drove to St. Peters this morning and to
-            Villa Borghese this afternoon. Hendrick Andersen dined with us - looking well and happy
+            the last day - with my books - and had a beautiful rest. Reached 
+            <placeName ref="#Naples">Naples</persName> and landed by 8 o’clock - had breakfast at 
+            <placeName ref="Grand_Hotel">the Grand</placeName> - and then a charming drive up the hill and over to
+            <placeName ref="#Posillippo">Posillipo</placeName>, and then back in time for early lunch, 
+            and off for <placeName ref="#Rome">Rome</placeName> by one o’clock - which we reached for 
+            dinner in our pleasant sitting room at 7:30. Found piles of letter waiting. Very serious 
+            news as to probably war with <placeName ref="#Spain">Spain</placeName> - and accounts of the brilliant
+            and decisive battle fought by <persName ref="#Kitchener_Herbert">Kitchener</persName>, 
+            the Sirdar in the Soudan - great loss of dervishes. <persName ref="#Mohammed_General">Mahomet</persName>, 
+            the general captured. We have the corresponding rooms, only <pb n="177">
+            one storey higher, than those we had last year. Drove to 
+            <placeName ref="#St._Peter's_Basilica">St. Peters</placeName> this morning and to
+            <placeName ref="#Villa_Borghese_Gardens">Villa Borghese</placeName> this afternoon. 
+            <persName ref="#Anderson_Hendrick">Hendrick Andersen</persName> dined with us - looking well and happy
             - last night and tonight. This morning to his pleasant studio - and were charmed and
-            astonished at the vigor and originality of his work. 
+            astonished at the vigor and originality of his work.</p>
+            </div> 
             
-            Easter Sunday, April 10. Splendid
-            weather, and services at St. John of Lateran this morning, and St. Peters in the
-            afternoon - delightful music - and what effects in the St. Peters! Mrs. and Miss Bronson
-            to dine with us. 
+            <div xml:id="EBA18980410" type="Entry">
+            <p><title>Easter Sunday, April 10.</title></p> 
+            <p>Splendid weather, and services at 
+            <placeName ref="#Archbasilica_of_St_John_Lateran">St. John of Lateran</placeName> 
+            this morning, and <placeName ref="#St_Peter's_Basilica">St. Peters</placeName> in the
+            afternoon - delightful music - and what effects in the 
+            <placeName ref="#St_Peter's_Basilica">St. Peters</placeName>! 
+            <persName ref="#Bronson_Mrs.">Mrs. and Miss Bronson</persName>
+            to dine with us.</p>
+            </div> 
             
-            Monday, April 11. To the Museo delle Terme this morning with Anderson.
-            To drive in the Borhese in the afternoon. 
+            <div xml:id="EBA18980411" type="Entry">           
+            <p><title>Monday, April 11.</title></p> 
+            <p>To the <placeName ref="#Museo_delle_Terme">Museo delle Terme</placeName> this 
+            morning with <persName ref="#Anderson_Hendrick">Anderson</placeName>.
+            To drive in <placeName ref="#Villa_Borghese_Gardens">the Borhese</placeName> 
+            in the afternoon.</p>
+            </div> 
             
-            Tuesday, April 12. Vatican with Anderson.
-            Whiteheads turned up this evening. 
+            <div xml:id="EBA18980212" type="Entry">
+            <p><title>Tuesday, April 12.</title></p> 
+            <p><placeName ref="#Vatican_City">Vatican</placeName> with 
+            <persName ref="#Anderson_Hendrick">Anderson</persName>.
+            <persName ref="#Whitehead_Mr">Whiteheads</persName> turned up this evening.</p> 
+            </div>
             
-            Wednesday, April 13. To the Vatican Pinacotheca -
-            Mrs. House, Mr. and Mrs. Elliot to dinner. Dr. Richter called - interesting. 
+            <div xml:id="EBA18980413" type="Entry">
+            <p><title>Wednesday, April 13.</title></p> 
+            <p>To the <placeName ref="#Vatican_Museums">Vatican Pinacotheca</placeName> 
+            - <persName ref="#House_Mrs">Mrs. House</persName>, 
+            <persName ref="#Elliot_John">Mr. and Mrs. Elliot</persName> to dinner. 
+            <persName ref="Ritcher_Dr">Dr. Richter</persName> called - interesting.</p>
+            </div> 
             
-            Thursday,
-            April 14. To various churches this morning - to a reception at Mrs. Elliotts in the
-            afternoon. Dr. Bull to dine with us. Dr. Richter came DUPLICATE PAGE 177 
+            <div xml:id="EBA18980414" type="Entry">            
+            <p><title>Thursday, April 14.</title></p> 
+            <p>To various churches this morning - to a reception at 
+            <persName ref="#Elliot_Mrs"><corr>Mrs. Elliott's</corr></persName> in the
+            afternoon. <persName ref="Bull_Dr">Dr. Bull</persName> to dine with us. 
+            <persName ref="#Richter_Dr">Dr. Richter</persName> came.</p>
             
-            PAGE 178
-            Friday, April 15. To the Doria Pamfili this morning and then to the Lateren. In the
-            afternoon drove in the beautiful Doria Pamfili gardens. 
+            <pb n="178">
             
-            Saturday, April 16. Rain all day
-            and in the house. Mr. Ayer called. 
+            <div xml:id="EBA18980415" type="Entry">
+            <p><title>Friday, April 15.</title></p> 
+            To the <placeName ref="#Palazzo_Doria_Pamphilj">Doria Pamfili</placeName> this 
+            morning and then to <placeName ref="#Archbasilica_of_St_John_Lateran">the Lateren</placeName>. 
+            In the afternoon drove in the beautiful 
+            <placeName ref="#Villa_Doria_Pamfili">Doria Pamfili gardens</placeName>.</p>
+            </div> 
             
-            Sunday, April 17. Theodore and I drove out on the
-            Appian way this morning - air deliciously warm and soft - but the wind so high and grew
-            so violent we had to have the top of the carriage up - beautiful storm effects on that
-            wide Campagna, with the tops of the Mts. white with snow. Mrs. Norman and Mabel came to
-            dine. 
+            <div xml:id="EBA18980416" type="Entry">
+            <p><title>Saturday, April 16.</title></p> 
+            <p>Rain all day and in the house. <persName ref="#Ayer_Mr">Mr. Ayer</persName> 
+            called.</p>
+            </div> 
             
-            Monday, April 18. Theodore and I have been nosing about in the various shops of an
-            old man who deals in frames in the Via Gergoriana. There were such beauties, it was hard
-            to decide. Chose one of the best for a mirror to be placed in the hall over the hat
-            table. Dr. Richter came to lunch - conversation about Leonardo, Boticelli, and other
-            artists, and discussion of various pictures. Then we drove wwith them to visit by
-            appointment the house of Donna Laura Minghetti, to see the famous leonardo da Vinci. A
-            charming house, and an even more charming and hospitable hostess - and the beautiful
-            picture was a sensation indeed. The Elliots called this evening. 
+            <div xml:id="EBA18980417" type="Entry">
+            <p><title>Sunday, April 17.</title></p> 
+            <p><persName ref="#Davis_Theodore">Theodore</persName> and 
+            <persName ref="#Andrews_Emma">I</persName> drove out on the
+            <placeName ref="#Appian_Way">Appian way</persName> this morning - air deliciously 
+            warm and soft - but the wind so high and grew so violent we had to have the top 
+            of the carriage up - beautiful storm effects on that wide Campagna, with the tops 
+            of <unclear><geogName ref="#Appian_Mountains">the Mts.</geogName></unclear> white 
+            with snow. <persName ref="#Norman_Mrs">Mrs. Norman</persName> and 
+            <persName ref="#Mabel">Mabel<persName> came to dine.</p>
+            </div> 
             
-            PAGE 179 Tuesday, April
-            19. With the old frame man in Via Gregoriana this morning again and a charming drive,
-            Theodore, Monty, Anderson and I had in the Doria Pamphili gardens this afternoon. They
-            were not open to the public, but for some reason or other we were allowed to enter, and
-            had all the drives and beautiful avenues to ourselves. Mrs. Ayer, the Normans to tea -
-            and Dr. Richter to dinner - and we do not go to Florence tomorrow but the next day - for
-            Theodore is trying to get a precious picture. 
+            <div xml:id="EBA18980418" type="Entry">
+            <p><title>Monday, April 18.</title></p> 
+            <p><persName ref="#Davis_Theodore">Theodore</persName> and 
+            <persName ref="#Andrews_Emma">I</persName> have been nosing about in the various shops of an
+            <unclear>old man</unclear> who deals in frames in the <placeName ref="#Via_Gregoriana">Via Gerggoriana</placeName>. 
+            There were such beauties, it was hard to decide. Chose one of the best for a mirror 
+            to be placed in the hall over the hat table. <persName ref="#Richter_Dr">Dr. Richter</persName> 
+            came to lunch - conversation about <persName ref="#da_Vinci_Leonardo">Leonardo</persName>, 
+            <persName ref="Botticelli_Sandro">Boticelli</persName>, and other artists, 
+            and discussion of various pictures. Then we drove <corr>with</corr> them to visit by
+            appointment the house of <placeName ref="#House_of_Minghetti_Donna_Laura">Donna Laura Minghetti</placeName>, 
+            to see <graphic ref="#The_Leonardo">the famous leonardo da Vinci</graphic>. A charming house, 
+            and an even more charming and hospitable hostess - and the beautiful picture was 
+            a sensation indeed. <persName ref="#Elliot_Mr">The Elliots</persName> called this evening</p>. 
+            </div>
             
-            Wednesday, April 20. Miserable weather.
-            Poked into the old frame shop this morning with Theodore, and out in the rain for half
-            an hour with Nettie though I did not leave the carriage. Dr. Richter to lunch - and then
-            a very exciting afternoon - he and Theodore went off at 3 o’clock in a closed carriage
-            to Donna Laura Minghetti’s to actually bring home in great secrecy, into our own
-            possession, the incomparable Leonardo, to which we thought it such a privilege only a
-            few days since, to be allowed to see. It is hard to realize that we have actually
-            acquired it, it seems almost as if we have bought the Vatican or St. Peters! If we can
-            only get it out of italy without arousing suspicion! Dr. R. to dinner. 
+            <pb n="179">
             
-            Hotel Cavour.
-            Milan. April 29. We have made a great stride on our blessed way home to Toby PAGE 180
-            and the Reef. Was having been declared, Theodore naturally began to feel uneasy, and to
-            my great satisfaction decided to give up Venice, and go home on the Kaiser der Grosse
-            the 25 May. Sent Monty over to Venice for 3 days there, and picked him up at Bologne
-            yesterday as we came through. I lost all our short stay of a week at Florence - as I
-            took to my bed at once with a sharp attack of influenza and did not leave it until the
-            day we came away. Dr. Baldwin in attendance twice a day. The cold still hangs on - and I
-            feel really shattered. Anderson came from Rome with the Normans on Monday - and it was
-            delightful to have him again. Berenson and mrs. Castello to dine the night before we
-            left and I got up for the dinner. I was furious that I could not go with Theodore to
-            lunch with them, and see their pretty houses, which Theodore raved about. It rained all
-            the time we were in Florence, and is still at it, The weather very heavy and
-            discouraging. 
+            <div xml:id="EBA18980419" type="Entry">
+            <p><title>Tuesday, April 19.</title></p> 
+            <p>With the <unclear>old frame man</unclear> in 
+            <placeName ref="#Via Gregoriana">Via Gregoriana</placeName> this morning again 
+            and a charming drive, <persName ref="#Davis_Theodore">Theodore</persName>, 
+            <persName ref="#Monty">Monty</persName>, <persName ref="#Anderson_Hendrick">Anderson</persName> 
+            and <persName ref="#Andrews_Emma">I</persName> had in the 
+            <placeName ref="#Villa_Doria_Pamphili">Doria Pamphili gardens</placeName> this afternoon. 
+            They were not open to the public, but for some reason or other we were allowed to enter, and
+            had all the drives and beautiful avenues to ourselves. <persName ref="#Ayer_Mrs">Mrs. Ayer</persName>, 
+            <persName ref="#Norman_Mr">the Normans</persName> to tea - and 
+            <persName ref="Richter_Dr">Dr. Richter</persName> to dinner - and we do not go to 
+            <placeName ref="#Florence">Florence</placeName> tomorrow but the next day - for
+            <persName ref="#Davis_Theodore">Theodore</persName> is trying to get a precious picture.<p>
+            </div> 
             
-            Lucerne - April 30. Hotel National. A perfect day for that incomparable
-            journey over the Alps from Milan here. We seem to have left all the rain behind us.
-            Arrived at 7 o’clock leaving Milan at 12:30 and found delightful rooms overlooking the
-            lake. Sunday, May 1st. The brilliant sunshine looked into my room this morning and the
+            <div xml:id="EBA18980420" type="Entry">            
+            <p><title>Wednesday, April 20.</title></p> 
+            <p>Miserable weather. Poked into the old frame shop this morning with 
+            <persName ref="#Davis_Theodore">Theodore</persName>, and out in the rain for 
+            half an hour with <persName ref="#Buttles_Jeanette">Nettie</persName> though 
+            I did not leave the carriage. <persName ref="#Richter_Dr">Dr. Richter</persName> 
+            to lunch - and then a very exciting afternoon - <persName ref="#Richter_Dr">he</persName> 
+            and <persName ref="#Davis_Theodore">Theodore</persName> went off at 3 o’clock 
+            in a closed carriage to 
+            <placeName ref="#House_of_Minghetti_Donna_Laura">Donna Laura Minghetti’s</placeName> 
+            to actually bring home in great secrecy, into our own possession, 
+            <graphic ref="#The_Leonardo">the incomparable Leonardo</graphic>, to which we thought 
+            it such a privilege only a few days since, to be allowed to see. It is hard to 
+            realize that we have actually acquired it, it seems almost as if we have bought 
+            <placeName ref="#Vatican_Museums">the Vatican</placeName> or 
+            <placeName ref="#St_Peter's_Basilica">St. Peters</placeName>! If we can
+        	only get it out of <country ref="#Italy">italy</country> without arousing 
+        	suspicion! <persName ref="#Richter_Dr">Dr. R.</persName> to dinner.</p> 
+            </div>
+            
+            <div xml:id="EBA18980429" type="Entry">
+            <p><title>Hotel Cavour. Milan. April 29.</title></p> 
+            <p>We have made a great stride on our blessed way home to 
+            <persName ref="#Toby">Toby</persName> <pb n="180"> and the Reef. <corr>War</corr> 
+            having been declared, <persName ref="#Davis_Theodore">Theodore</persName> 
+            naturally began to feel uneasy, and to my great satisfaction decided to give up 
+            <placeName ref="#Venice">Venice</placeName>, and go home on the 
+            <name type="boat" ref="#Kaiser_Wilhelm_der_Grosse">Kaiser der Grosse</name>
+            the 25 May. Sent <persName ref="#Monty">Monty</persName> over to 
+            <placeName ref="#Venice">Venice</placeName> for 3 days there, and picked him up 
+            at <placeName ref="#Bologna">Bologne</placeName> yesterday as we came through. 
+            I lost all our short stay of a week at <placeName ref="#Florence">Florence</placeName> 
+            - as I took to my bed at once with a sharp attack of influenza and did not leave it until the
+            day we came away. <persName ref="#Baldwin_Dr">Dr. Baldwin</persName> in attendance twice a day. 
+            The cold still hangs on - and I feel really shattered. 
+            <persName ref="#Anderson_Hendrick">Anderson</persName> came from <placeName ref="#Rome">Rome</placeName> 
+            with <persName ref="#Norman_Mr">the Normans</persName> on Monday - and it was
+            delightful to have him again. <persName ref="Berenson_Bernard">Berenson</placeName> and 
+            <persName ref="#Castello_Mrs">mrs. Castello</persName> to dine the night before we
+            left and <persName ref="#Andrews_Emma">I</persName> got up for the dinner. I was 
+            furious that I could not go with <persName ref="#Davis_Theodore">Theodore</persName> to
+            lunch with them, and see their pretty houses, which <persName ref="Davis_Theodore">Theodore</persName> 
+            raved about. It rained all the time we were in <placeName ref="#Florence">Florence</placeName>, 
+            and is still at it, The weather very heavy and discouraging.</p>
+            </div> 
+            
+            <div xml:id="EBA18980430" type="Entry">
+            <p><title>Lucerne - April 30. Hotel National.</title></p> 
+            <p>A perfect day for that incomparable journey over 
+            <geogName ref="Alps">the Alps</geogName> from <placeName ref="#Milan">Milan</placeName> 
+            here. We seem to have left all the rain behind us. Arrived at 7 o’clock leaving 
+            <placeName ref="#Milan">Milan</placeName> at 12:30 and found delightful rooms overlooking the
+            lake.</p>
+            </div> 
+            
+            <div xml:id="EBA18980501" type="Entry">
+            <p><title>Sunday, May 1st.</title></p> 
+            <p>The brilliant sunshine looked into my room this morning and the
             views across the lake were glorious with the snow capped mountains, and the green hills
-            enclosing the heavenly blue lake. Drove for 2 hours PAGE 181 ( no page number) this
-            morning among the hills and around the lake. All the country is full of blossoming
-            cherry trees - meadows gay with flowers - the hum of bees and the song of birds. I heard
-            the nightingales at 4 o’clock this morning. Wrote letters this afternoon and we had tea
-            out on our balcony. Magnificent sunset effects - rosy snow mts. and clouds - reflected
-            in the blue lake! 
+            enclosing the heavenly blue lake. Drove for 2 hours <pb n="181"> this morning 
+            among the hills and around the lake. All the country is full of blossoming cherry trees 
+            - meadows gay with flowers - the hum of bees and the song of birds. I heard the 
+            nightingales at 4 o’clock this morning. Wrote letters this afternoon and we had 
+            tea out on our balcony. Magnificent sunset effects - rosy snow mts. and clouds 
+            - reflected in the blue lake!</p>
+            </div> 
             
-            Monday, May 2. Another fine day - walking, driving and hunting over
-            Bossards antiquity shop. Such a delight to think that next month at this time we ought
-            to be at home - off tomorrow early for Paris. Hotel Westminster. 
+            <div xml:id="EBA18980502" type="Entry">
+            <p><title>Monday, May 2.</title></p> 
+            <p>Another fine day - walking, driving and hunting over
+            <placeName ref="#Bossards_Antiquity_Shop">Bossards antiquity shop</placeName>. 
+            Such a delight to think that next month at this time we ought to be at home 
+            - off tomorrow early for <placeName ref="#Paris">Paris</placeName>.</p>
+            </div> 
             
-            Paris, Wednesday, May.
-            4. We left Lucerne yesterday at 7:30 A.M. in clouds and rain, which continued all day -
-            and arrived here at 6 o’clock. Came to our old quarters - most homelike - with the
-            smiling familiar faces of the Concierge and his wife - Emil the waiter, and the kind,
-            deprecating femme de chambre - news of the successful battle at Manilla, and the triumph
-            of Commodore Dewey. Poor Spain - I am full of sympathy for the brave Queen Christina who
-            has done all she could to rule and direct the troublesome country. Today it has been
-            storming violently, with bursts of alternate sunshine. Mary and I were settling
-            ourselves this morning - and began with gowns and shopping this afternoon. She has gone
-            to the Circus with Theodore and Monty this evening - and I am keeping our cheerful salon
-            company, with a bright wood fire. 
+            <div xml:id="EBA18980504" type="Entry">
+            <p><title>Hotel Westminster. Paris, Wednesday, May. 4.</title></p> 
+            <p>We left <placeName ref="#Lucerne">Lucerne</placeName> yesterday at 7:30 A.M. 
+            in clouds and rain, which continued all day - and arrived here at 6 o’clock. 
+            Came to our old quarters - most homelike - with the smiling familiar faces 
+            of the Concierge and his wife - <persName ref="#Emil">Emil the waiter</persName>, 
+            and the kind, deprecating femme de chambre - news of the successful battle at 
+            <placeName ref="#Manilla">Manilla</placeName>, and the triumph
+            of <persName ref="#Dewey_George_Commodore">Commodore Dewey</persName>. 
+            Poor Spain - I am full of sympathy for the brave 
+            <persName ref="#Raineria_Felicitas_Desideria_Henriette_Christina_Maria_Queen">Queen Christina</persName> 
+            who has done all she could to rule and direct the troublesome country. Today it has been
+            storming violently, with bursts of alternate sunshine. <persName ref="#Buttles_Mary">Mary</persName> 
+            and <persName ref="#Andrews_Emma">I</persName> were settling ourselves this morning - 
+            and began with gowns and shopping this afternoon. <persName ref="#Buttles_Mary">She</persName> 
+            has gone to the Circus with <persName ref="#Davis_Theodore">Theodore</persName> 
+            and <persName ref="#Monty">Monty</persName> this evening - and I am keeping our cheerful salon
+            company, with a bright wood fire.</p>
+            </div> 
             
-            PAGE 182 Paris May 14. Since my last entry there has
-            been nothing to write, except curses - deep and loud, against the weather. It has rained
-            every day, persistently and continuously. I have not been out since the 4th, until
-            yesterday, when I drove to Paquins a few doors off, and back. Theodore has had a great
-            success with his Leonardo. She was invited to the Louvre, and compared with the Mona
-            Lisa and the Madonna of the rocks. Braun has photographed her magnificently - and
-            Theodore has given him the privilege of selling the photographs. Mary goes back home
-            this morning. Jones and Amilie take her to the train, she has a compartment in the
-            sleeping car which she does not leave until she reaches Pisa tomorrow night at 11
-            o’clock - where Nettie meets her, and spends the night, and the have most of the day
-            together there before going back to Florence. We go at 11 o’clock tomorrow via Calais to
-            London. 
+            <pb n="182"> 
             
-            Hotel Bristol. London. May 17th. We came over very comfortably from Paris on
-            Sunday - in spite of the rain. Fortunately it held up as we were getting on and off the
+            <div xml:id="EBA18980514" type="Entry">
+            <p><title>Paris May 14.</title></p> 
+            <p>Since my last entry there has been nothing to write, except curses - deep 
+            and loud, against the weather. It has rained every day, persistently and continuously. 
+            I have not been out since the 4th, until yesterday, when I drove to <unclear>Paquins</unclear> 
+            a few doors off, and back. <persName ref="#Davis_Theodore">Theodore</persName> has had a great
+            success with <graphic ref="#The_Leonardo">his Leonardo</graphic>. 
+            <graphic ref="#The_Leonardo">She</graphic> was invited to <placeName ref="#The_Louvre">the Louvre</placeName>, 
+            and compared with <graphic ref="#The_Mona_Lisa">the Mona Lisa</graphic> and 
+            <graphic ref="#The_Virgin_of_the_Rocks">the Madonna of the rocks</graphic>. 
+            <persName ref="#Braun">Braun</persName> has photographed her magnificently - and
+            <persName ref="#Davis_Theodore">Theodore</persName> has given him the privilege of 
+            selling the photographs. <persName ref="#Buttles_Mary">Mary</persName> goes back home
+            this morning. <persName ref="#Jones_David">Jones</persName> and 
+            <persName ref="#Amilie">Amilie</persName> take her to the train, she has a compartment in the
+            sleeping car which she does not leave until she reaches <placeName ref="#Pisa">Pisa</placeName> 
+            tomorrow night at 11 o’clock - where <persName ref="#Buttles_Jeanette">Nettie</persName> 
+            meets her, and spends the night, and the have most of the day together there 
+            before going back to <placeName ref="#Florence">Florence</placeName>. 
+            We go at 11 o’clock tomorrow via <placeName ref="#Calais">Calias</placeName> 
+            to <placeName ref="#London">London</placeName>.<p>
+            </div> 
+            
+            <div xml:id="EBA18980517" type="Entry">
+            <p><title>Hotel Bristol. London. May 17th.</title></p> 
+            <p>We came over very comfortably from <placeName ref="#Paris">Paris</placeName> 
+            on Sunday - in spite of the rain. Fortunately it held up as we were getting on and off the
             boat, or it would have gone hard with me, as there is no protection whatever in the way
             of a roof. I had a nice little cabin, and laid down and slept most of the way - and the
             sea was smooth. Found our old quarters at this most comfortable of all hotels - and the
-            weather has been good. Shopped a little and drove in the Park yesterday and today. PAGE
-            183 This afternoon went with Theodore around to the Burlington Arts Club to see the
+            weather has been good. Shopped a little and drove in <placeName ref="Hyde_Park">the Park</placeName> 
+            yesterday and today. <pb n="183"> This afternoon went with <persName ref="#Davis_Theodore">Theodore</persName> 
+            around to the <placeName ref="#Burlington_Arts_Club">Burlington_Arts_Club</placeName> to see the
             collection of Milanese paintings - quite charming and interesting. Found the photograph
-            of our Leonardo there opposite the Mona Lisa. We have had visits from the Farrars,
-            Denbighs, Mr. Rathbone and Fielding - all the rest off to the theatre, as they were last
-            night. I do not risk the exposure. Mr. Emmons here today - they sail tomorrow on the
-            Teutonic. 
+            of <graphic ref="#The_Leonardo">our Leonardo</graphic> there opposite 
+            <graphic ref="#The_Mona_Lisa">the Mona Lisa</graphic>. We have had visits from the
+            <persName ref="#Farrar_Gaspard">Farrars</persName>, <persName ref="#Denbigh_Lord">Denbighs</persName>, 
+            <persName ref="#Rathbone_Mr">Mr. Rathbone</persName> and <persName ref="#Fielding_Mr">Fielding</persName> 
+            - all the rest off to the theatre, as they were last night. I do not risk the exposure. 
+            <persName ref="#Emmons_Mr">Mr. Emmons</persName> here today - they sail tomorrow on the
+            <name type="boat" ref="#Teutonic">Teutonic</name>.</p>
+            </div> 
             
-            Sunday, May 22. The week has been rather quiet. I have had not dining out, no
-            theatres or operas - as I do not go out in the evening. Theodore has been busy doing all
+            <div xml:id="EBA18980522" type="Entry">
+            <p><title>Sunday, May 22.</title></p> 
+            <p>The week has been rather quiet. I have <corr>not been</corr> dining out, no
+            theatres or operas - as I do not go out in the evening. 
+            <persName ref="#Davis_Theodore">Theodore</persName> has been busy doing all
             of these things - and I scarcely see him, except at breakfast. The weather has been bad
-            - today it is mending. I have had almost a daily drive in the Park - and yesterday I
-            lunched with Lady Denbigh - and met some pleasant people. Tonight Theodore dines with
-            Lord Denbigh - a man’s dinner for Lady D. has gone down to Nuneham to her family of 8
-            children. Fielding came early yesterday, and he and Theodore knocked about to galleries
+            - today it is mending. I have had almost a daily drive in <placeName ref="#Hyde_Park">the Park</placeName> 
+            - and yesterday <persName ref="#Andrews_Emma">I</persName> lunched with 
+            <persName ref="#Denbigh_Lady">Lady Denbigh</persName> - and met some pleasant people. 
+            Tonight <persName ref="#Davis_Theodore">Theodore</persName> dines with
+            <persName ref="#Denbigh_Lord">Lord Denbigh</persName> - a man’s dinner<corr>,</corr> 
+            for <persName ref="Denbigh_Lady">Lady D.</persName> has gone down to 
+            <placeName ref="#Nuneham_Courtenay">Nuneham</placeName> to her family of 8 
+            children. <persName ref="#Fielding_Mr">Fielding</persName> came early yesterday, 
+            and he and <persName ref="#Davis_Theodore"> knocked about to galleries
             and shops in the morning, and he came to lunch and went with us afterward to the
             Military Tournament; came back to tea - and went home and dressed, came back and ined,
-            and he and Theodore had an old fashioned game of chess. I have just got home from a
-            solitary drive in the Part - having first gone to tea with Miss Farrer. The Park lovely,
-            backward as is the season, the trees are well out now, and the thorns beginning to show
-            their flowers. Dr. Bridgman called after lunch and made me a visit - telling me all
-            about PAGE 184 our war! how the Spaniards had a disciplined navy, and we had not - how
-            much cleverer and quicker they were than we - what an unrighteous war it was - but that
-            in the end we must win, for they (England) intended standing by us! 
+            and he and <persName ref="#Davis-Theodore">Theodore</persName> had an old fashioned 
+            game of chess. I have just got home from a solitary drive in 
+            <placeName ref="#Hyde_Park">the <corr>Park</corr></placeName> - having first 
+            gone to tea with <persName ref="#Farrer_Miss">Miss Farrer</persName>. 
+            <placeName ref="#Hyde_Park">The Park</placeName> lovely, backward as is the season, 
+            the trees are well out now, and the thorns beginning to show their flowers. 
+            <persName ref="#Bridgman_Dr">Dr. Bridgman</persName> called after lunch and 
+            made me a visit - telling me all about <pb n="184"> our war! <corr>How</corr> 
+            the Spaniards had a disciplined navy, and we had not - how much cleverer and 
+            quicker they were than we - what an unrighteous war it was - but that in the 
+            end we must win, for <country ref="#England">they</country> (England) 
+            intended standing by us!</p>
+            </div> 
             
-            Tuesday, May 24. Our
-            last evening in London - and these two last days have been very busy - between friends
-            and affairs. The weather still uncertain - we made the acquaintance of Mr. Sydney Colvin
-            this afternoon. He came to see the Leonardo - and I talked a little with him about
-            Stevenson. He looks rather a hard, dry fellow. Mr. Rathbone and Farrar here too. Last
-            agonies of packing going on in all our rooms. 
+            <div xml:id="EBA18980524" type="Entry">
+            <p><title>Tuesday, May 24.</title></p> 
+            <p>Our last evening in <placeName ref="#London">London</placeName> - and these 
+            two last days have been very busy - between friends and affairs. The weather 
+            still uncertain - we made the acquaintance of 
+            <persName ref="#Colvin_Sydney_Mr">Mr. Sydney Colvin</persName> this afternoon. 
+            He came to see <graphic ref="#The_Leonardo">the Leonardo</graphic> - and 
+            <persName ref="#Andrews_Emma">I</persName> talked a little with him about
+            <persName ref="#Steveson_Louis_Robert">Stevenson</persName>. He looks rather a 
+            hard, dry fellow. <persName ref="#Rathbone_Mr">Mr. Rathbone</persName> and 
+            <persName ref="#Farrar_Gaspard">Farrar</persName> here too. Last
+            agonies of packing going on in all our rooms.</p>
+            </div> 
             
-            Tuesday, June 1st. Holland House. Just one
-            week ago tonight I made the last entry - and it is hard to realize - and now we are here
-            again, after a very comfortable and monotonous voyage. The Kaiser Wilhelm der Grosse is
-            the finest ship I have ever sailed on. Such comfort, luxury, cleanliness - good service,
-            and the best and most profuse table I ever saw. Mr. Rathbone and Fielding were at the
-            station to say goodbye, the morning we left London. A quick and pleasant ride to
-            Southhampton, and as we ran along the big dock, with the Kaiser lying close to it, she
-            looked enormous from the train. On three consecutive days we made 560 miles - and the
-            voyage would have made a record, had we not 2 days before reaching PAGE 185 New York,
-            broke one or the blades of one of the screws. However, we were in our slip by 10:30 this
-            morning. END vol 5 11 </body>
+            <div xml:id="EBA18980601" type="Entry">
+            <p><title>Tuesday, June 1st. Holland House.</title></p> 
+            <p>Just one week ago tonight <persName ref="#Andrews_Emma">I</persName> made 
+            the last entry - and it is hard to realize - and now we are here again, after a 
+            very comfortable and monotonous voyage. The 
+            <name type="boat" ref="#Kaiser_Wilhelm_der_Grosse">Kaiser Wilhelm der Grosse</name> 
+            is the finest ship I have ever sailed on. Such comfort, luxury, cleanliness - 
+            good service, and the best and most profuse table I ever saw. 
+            <persName ref="#Rathbone_Mr">Mr. Rathbone</persName> and 
+            <persName ref="#Fielding_Mr">Fielding</persName> were at the station to say 
+            goodbye, the morning we left London. A quick and pleasant ride to 
+            <placeName ref="#Southampton">Southhampton</placeName>, and as we ran along 
+            the big dock, with the <name type="boat" ref="#Kaiser_Wilhelm_der_Grosse">Kaiser</name> 
+            lying close to it, she looked enormous from the train. On three consecutive days 
+            we made 560 miles - and the voyage would have made a record, had we not 2 days 
+            before reaching <pb n="185"> <placeName ref="New_York">New York</placeName>,
+            broke one or the blades of one of the screws. However, we were in our slip by 
+            10:30 this morning.</p>
+            </div> 
+            
+            END vol 5 
+            11 
+            </body>
     </text>
 </TEI>
